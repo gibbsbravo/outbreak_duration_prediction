@@ -1,0 +1,911 @@
+index,accuracy,formatted_address,google_place_id,input_string,latitude,longitude,number_of_results,postcode,status,type
+0,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+1,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+2,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+3,ROOFTOP,"3555 Danforth Ave, Scarborough, ON M1L 1E3, Canada",ChIJLx5zoJHO1IkRqSdgqHiKQGM,"3555 Danforth Ave, Toronto, Ontario, Canada",43.6936402,-79.2748453,1,M1L 1E3,OK,premise
+4,ROOFTOP,"19 Rean Dr, North York, ON M2K, Canada",ChIJXSq1mkwtK4gRYJpl78u_TxA,"19 Rean Dr, Toronto, Ontario, Canada",43.7671998,-79.3824121,1,M2K,OK,premise
+5,ROOFTOP,"67 Belgreen Ave, Scarborough, ON M1S 1G7, Canada",ChIJWY4DndjT1IkRKXGJQI0aJCI,"67 Belgreen Ave, Toronto, Ontario, Canada",43.7952367,-79.2903674,1,M1S 1G7,OK,premise
+6,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+7,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+8,ROOFTOP,"429 Walmer Rd, York, ON M5P 2X9, Canada",ChIJUUDOnmQzK4gRPcqv0qchVwQ,"429 Walmer Rd, Toronto, Ontario, Canada",43.685476,-79.4124884,1,M5P 2X9,OK,street_address
+9,ROOFTOP,"1 Bridgepoint Dr, Toronto, ON M4M 2B5, Canada",ChIJZ7uOzGfL1IkRjPO5erkpawA,"1 Bridgepoint Dr, Toronto, Ontario, Canada",43.6664428,-79.3551541,1,M4M 2B5,OK,street_address
+10,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+11,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+12,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+13,ROOFTOP,"495 The West Mall, Etobicoke, ON M9C 5S3, Canada",ChIJt3zjay84K4gRuvFA0t9mt0M,"495 The West Mall, Toronto, Ontario, Canada",43.6483147,-79.5676753,1,M9C 5S3,OK,premise
+14,ROOFTOP,"40 Bell Estate Rd, Scarborough, ON M1L 0E2, Canada",ChIJkTyWnWLO1IkRnY9WUigAXPA,"40 Bell Estate Rd, Toronto, Ontario, Canada",43.7057564,-79.2771392,1,M1L 0E2,OK,"establishment,point_of_interest,premise"
+15,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+16,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+17,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+18,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+19,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+20,ROOFTOP,"5351 Yonge St, North York, ON M2N 5R6, Canada",ChIJI2A8VQ0tK4gRe9WvQiYkokY,"5351 Yonge St, Toronto, Ontario, Canada",43.7754026,-79.4141891,1,M2N 5R6,OK,street_address
+21,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+22,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+23,ROOFTOP,"795 Eglinton Ave E, East York, ON M4G 2L1, Canada",ChIJ6_lMitjM1IkRyypO_Hp7nPw,"795 Eglinton Ave E, Toronto, Ontario, Canada",43.7131213,-79.3661381,1,M4G 2L1,OK,premise
+24,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+25,RANGE_INTERPOLATED,"685 Finch Ave W, Toronto, ON, Canada",EiQ2ODUgRmluY2ggQXZlIFcsIFRvcm9udG8sIE9OLCBDYW5hZGE,"685 Finch Ave W, Toronto, Ontario, Canada",43.7709658,-79.4571202,1,M2R 1P2,OK,street_address
+26,ROOFTOP,"1145 Albion Rd, Etobicoke, ON M9V 4J7, Canada",ChIJb8IoqIY6K4gRv_2sZY8cfoQ,"1145 Albion Rd, Toronto, Ontario, Canada",43.7372772,-79.567768,1,M9V 4J7,OK,street_address
+27,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+28,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+29,ROOFTOP,"200 Dawes Rd, Toronto, ON M4C, Canada",ChIJCauSuCXM1IkR0BUHOJt0HUA,"200 Dawes Rd, Toronto, Ontario, Canada",43.6956956,-79.2979503,1,M4C,OK,street_address
+30,ROOFTOP,"4180 Dundas St W, Etobicoke, ON M8X 1X8, Canada",ChIJ8QpZVOM2K4gRXixbpCa2rxU,"4180 Dundas St W, Toronto, Ontario, Canada",43.6612466,-79.5100624,1,M8X 1X8,OK,premise
+31,ROOFTOP,"17 Maplewood Ave, Toronto, ON M6C, Canada",ChIJ0x7yzH4zK4gRA-uPoEWzTMA,"17 Maplewood Ave, Toronto, Ontario, Canada",43.6858313,-79.4218141,1,M6C,OK,street_address
+32,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+33,ROOFTOP,"645 Castlefield Ave, Toronto, ON M5N 3A5, Canada",ChIJE5DX4wkzK4gRirm5I-w8KIE,"645 Castlefield Ave, Toronto, Ontario, Canada",43.7062115,-79.4252457,1,M5N 3A5,OK,premise
+34,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+35,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+36,ROOFTOP,"25 Centennial Park Rd, Etobicoke, ON M9C 5H1, Canada",ChIJt2nYCzY4K4gRJoq9x0qV3fo,"25 Centennial Park Rd, Toronto, Ontario, Canada",43.6532313,-79.5820289,1,M9C 5H1,OK,premise
+37,ROOFTOP,"148 Markham Rd, Scarborough, ON M1M 2Z8, Canada",ChIJqV038h7Q1IkRAOnkmuZIWIs,"148 Markham Rd, Toronto, Ontario, Canada",43.7407688,-79.2187682,1,M1M 2Z8,OK,premise
+38,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+39,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+40,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+41,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+42,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+43,ROOFTOP,"Eaton Building, 200 Elizabeth St, Toronto, ON M5G 2C4, Canada",ChIJM-Vxzsk0K4gR1NpuTfG5Sh0,"200 Elizabeth St, Toronto, Ontario, Canada",43.6590522,-79.387961,1,M5G 2C4,OK,premise
+44,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+45,ROOFTOP,"4251 Dundas St W, Etobicoke, ON M8X 1Y3, Canada",ChIJEYcgnP02K4gRidGT9bVGB30,"4251 Dundas St W, Toronto, Ontario, Canada",43.6588187,-79.5144263,1,M8X 1Y3,OK,premise
+46,ROOFTOP,"40 Bell Estate Rd, Scarborough, ON M1L 0E2, Canada",ChIJkTyWnWLO1IkRnY9WUigAXPA,"40 Bell Estate Rd, Toronto, Ontario, Canada",43.7057564,-79.2771392,1,M1L 0E2,OK,"establishment,point_of_interest,premise"
+47,ROOFTOP,"600 Melita Crescent, Toronto, ON M6G 3Z4, Canada",ChIJRaMStYc0K4gR8SAUAgFFSGk,"600 Melita Cres, Toronto, Ontario, Canada",43.6731898,-79.4226931,1,M6G 3Z4,OK,street_address
+48,ROOFTOP,"866 Sheppard Ave W, North York, ON M3H 2T5, Canada",ChIJFQvieg4yK4gR2uP-BaFF7pM,"866 Sheppard Ave W, Toronto, Ontario, Canada",43.7526452,-79.4539955,1,M3H 2T5,OK,premise
+49,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+50,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+51,ROOFTOP,"45 Brunswick Ave, Toronto, ON M5S 3M3, Canada",ChIJ7yMo8-o0K4gRPqeIw49OeJY,"45 Brunswick Ave, Toronto, Ontario, Canada",43.6587924,-79.4043085,1,M5S 3M3,OK,street_address
+52,ROOFTOP,"2233 Kipling Ave, Etobicoke, ON M9W 4L3, Canada",ChIJ8eAyGmU6K4gRtgiH1wRFDQI,"2233 Kipling Ave, Toronto, Ontario, Canada",43.7257365,-79.5733921,1,M9W 4L3,OK,street_address
+53,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+54,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+55,ROOFTOP,"420 The East Mall, Etobicoke, ON M9B 3Z9, Canada",ChIJeeHbHSg4K4gREP1qWe5Xqes,"420 The East Mall, Toronto, Ontario, Canada",43.6475946,-79.560458,1,M9B 3Z9,OK,street_address
+56,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+57,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+58,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+59,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+60,ROOFTOP,"450 Rustic Rd, North York, ON M6L 1W9, Canada",ChIJx2yfe3AxK4gRjbcn6fTg6ns,"450 Rustic Rd, Toronto, Ontario, Canada",43.7174094,-79.4821431,1,M6L 1W9,OK,premise
+61,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+62,ROOFTOP,"95 Humber College Blvd, Etobicoke, ON M9V 5B5, Canada",ChIJw2ocNlA6K4gR18mFuy1kdWE,"95 Humber College Blvd, Toronto, Ontario, Canada",43.7271674,-79.5965005,1,M9V 5B5,OK,premise
+63,ROOFTOP,"4005 Eglinton Ave W, Etobicoke, ON M9A 5H3, Canada",ChIJbx6Qzyg3K4gRtA-HipfPzeY,"4005 Eglinton Ave W - 2nd, 7th, 8th & 9th Fl, Toronto, Ontario, Canada",43.6826619,-79.520341,1,M9A 5H3,OK,"establishment,point_of_interest,school"
+64,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+65,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+66,ROOFTOP,"77 Main St, Toronto, ON M4E 2V6, Canada",ChIJh1eQ_xrM1IkRQ5Ci1q_BHw0,"77 Main St, Toronto, Ontario, Canada",43.6815584,-79.298576,1,M4E 2V6,OK,street_address
+67,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+68,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+69,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+70,ROOFTOP,"2701 St Clair Ave E, East York, ON M4B 2S9, Canada",ChIJ08t9dUrM1IkRiak2nyXKGmI,"2701 St Clair Ave E, Toronto, Ontario, Canada",43.7056045,-79.3127641,1,M4B 2S9,OK,street_address
+71,ROOFTOP,"1001 Queen St W #2, Toronto, ON M6J 1H1, Canada",Ei8xMDAxIFF1ZWVuIFN0IFcgIzIsIFRvcm9udG8sIE9OIE02SiAxSDEsIENhbmFkYQ,"1001 Queen St W - Unit 2-2, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,subpremise
+72,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+73,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+74,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+75,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+76,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+77,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+78,ROOFTOP,"345 Sherbourne St, Toronto, ON M5A 2S3, Canada",ChIJC3KczU7L1IkRWnS2xkikd7E,"345 Sherbourne St, Toronto, Ontario, Canada",43.662669,-79.3726619,1,M5A 2S3,OK,street_address
+79,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+80,ROOFTOP,"1 Canterbury Pl, North York, ON M2N 1Z7, Canada",ChIJFTAicXItK4gRAPIZEJ1MKzU,"1 Canterbury Pl, Toronto, Ontario, Canada",43.7721224,-79.4144005,1,M2N 1Z7,OK,street_address
+81,ROOFTOP,"2601 Bayview Ave, North York, ON M2L 1B3, Canada",ChIJv_b-SqoyK4gReMmM5CQCxv4,"2601 Bayview Ave, Toronto, Ontario, Canada",43.7514086,-79.3844355,1,M2L 1B3,OK,premise
+82,ROOFTOP,"67 Belgreen Ave, Scarborough, ON M1S 1G7, Canada",ChIJWY4DndjT1IkRKXGJQI0aJCI,"67 Belgreen Ave, Toronto, Ontario, Canada",43.7952367,-79.2903674,1,M1S 1G7,OK,premise
+83,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+84,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+85,ROOFTOP,"10 Senlac Rd, North York, ON M2N 1N3, Canada",ChIJuZCNpn8tK4gRINCNZLH7Q0E,"10 Senlac Rd, Toronto, Ontario, Canada",43.7594235,-79.423487,1,M2N 1N3,OK,premise
+86,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+87,ROOFTOP,"1800 O'Connor Dr, North York, ON M4A 2R4, Canada",ChIJ56kzVMTN1IkRAZAjuZr-Uy0,"1800 O'Connor Dr, Toronto, Ontario, Canada",43.7205513,-79.3049625,1,M4A 2R4,OK,street_address
+88,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+89,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+90,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+91,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+92,ROOFTOP,"550 Cummer Ave, North York, ON M2K 2M2, Canada",ChIJq-0IkdcsK4gRThG6STww1CA,"550 Cummer Ave, Toronto, Ontario, Canada",43.7934039,-79.390669,1,M2K 2M2,OK,premise
+93,ROOFTOP,"429 Walmer Rd, York, ON M5P 2X9, Canada",ChIJUUDOnmQzK4gRPcqv0qchVwQ,"429 Walmer Rd, Toronto, Ontario, Canada",43.685476,-79.4124884,1,M5P 2X9,OK,street_address
+94,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+95,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+96,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+97,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+98,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+99,ROOFTOP,"2245 Lawrence Ave W, Etobicoke, ON M9P 3W3, Canada",ChIJB94cI84wK4gRFJ9ooseyQ9c,"2245 Lawrence Ave W, Toronto, Ontario, Canada",43.6968243,-79.5262318,1,M9P 3W3,OK,street_address
+100,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+101,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+102,ROOFTOP,"420 The East Mall, Etobicoke, ON M9B 3Z9, Canada",ChIJeeHbHSg4K4gREP1qWe5Xqes,"420 East Mall, Toronto, Ontario, Canada",43.6475946,-79.560458,1,M9B 3Z9,OK,street_address
+103,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+104,ROOFTOP,"500 Kingston Rd, Toronto, ON M4L 1V3, Canada",ChIJMVGplw_M1IkR-BqsgPR1XSQ,"500 Kingston Rd, Toronto, Ontario, Canada",43.6779947,-79.3027374,1,M4L 1V3,OK,street_address
+105,ROOFTOP,"111 Avenue Rd, Toronto, ON M5R 3J8, Canada",ChIJYbQ_OaQ0K4gRO4LeRrdDI3Q,"111 Avenue Rd, Toronto, Ontario, Canada",43.6731972,-79.3954314,1,M5R 3J8,OK,premise
+106,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+107,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+108,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+109,ROOFTOP,"2411 Lawrence Ave E, Scarborough, ON M1P 2R6, Canada",ChIJ0UA1ZubR1IkRVRNZnDfR2ZM,"2411 Lawrence Ave E, Toronto, Ontario, Canada",43.7491616,-79.2741252,1,M1P 2R6,OK,street_address
+110,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+111,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+112,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+113,ROOFTOP,"495 The West Mall, Etobicoke, ON M9C 5S3, Canada",ChIJt3zjay84K4gRuvFA0t9mt0M,"495 The West Mall, Toronto, Ontario, Canada",43.6483147,-79.5676753,1,M9C 5S3,OK,premise
+114,ROOFTOP,"2601 Bayview Ave, North York, ON M2L 1B3, Canada",ChIJv_b-SqoyK4gReMmM5CQCxv4,"2601 Bayview Ave, Toronto, Ontario, Canada",43.7514086,-79.3844355,1,M2L 1B3,OK,premise
+115,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+116,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+117,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+118,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+119,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+120,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+121,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+122,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+123,ROOFTOP,"600 University Ave, Toronto, ON M5G 1X5, Canada",ChIJzTjmZsg0K4gRK8lh-Z5_NgY,"600 University Ave, Toronto, Ontario, Canada",43.6575221,-79.3899928,1,M5G 1X5,OK,premise
+124,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+125,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+126,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+127,ROOFTOP,"2867 Ellesmere Rd, Scarborough, ON M1E 4B9, Canada",ChIJDWpji4TQ1IkRxyQ3X0OjcSM,"2867 Ellesmere Rd, Toronto, Ontario, Canada",43.7803978,-79.2045492,1,M1E 4B9,OK,street_address
+128,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+129,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+130,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+131,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+132,ROOFTOP,"500 Kingston Rd, Toronto, ON M4L 1V3, Canada",ChIJMVGplw_M1IkR-BqsgPR1XSQ,"500 Kingston Rd, Toronto, Ontario, Canada",43.6779947,-79.3027374,1,M4L 1V3,OK,street_address
+133,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+134,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+135,ROOFTOP,"9 Neilson Rd, Scarborough, ON M1E 4B8, Canada",ChIJDe8jZoPQ1IkR6mjl54sPHQE,"9 Neilson Rd, Toronto, Ontario, Canada",43.7811687,-79.2043244,1,M1E 4B8,OK,street_address
+136,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+137,ROOFTOP,"5 Resurrection Rd, Etobicoke, ON M9A 5H1, Canada",ChIJQ7AYSrs3K4gRLUStZVkJBGs,"5 Resurrection Rd, Toronto, Ontario, Canada",43.6437255,-79.5309217,1,M9A 5H1,OK,street_address
+138,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+139,ROOFTOP,"200 Dawes Rd, Toronto, ON M4C, Canada",ChIJCauSuCXM1IkR0BUHOJt0HUA,"200 Dawes Rd, Toronto, Ontario, Canada",43.6956956,-79.2979503,1,M4C,OK,street_address
+140,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+141,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+142,ROOFTOP,"866 Sheppard Ave W, North York, ON M3H 2T5, Canada",ChIJFQvieg4yK4gR2uP-BaFF7pM,"866 Sheppard Ave W, Toronto, Ontario, Canada",43.7526452,-79.4539955,1,M3H 2T5,OK,premise
+143,ROOFTOP,"795 Eglinton Ave E, East York, ON M4G 2L1, Canada",ChIJ6_lMitjM1IkRyypO_Hp7nPw,"795 Eglinton Ave E, Toronto, Ontario, Canada",43.7131213,-79.3661381,1,M4G 2L1,OK,premise
+144,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+145,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+146,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+147,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+148,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+149,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+150,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+151,ROOFTOP,"520 Markham Rd, Scarborough, ON M1H 3A1, Canada",ChIJwYWstT_Q1IkRTOcKAJqPK-0,"520 Markham Rd, Toronto, Ontario, Canada",43.7547332,-79.2248583,1,M1H 3A1,OK,street_address
+152,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+153,RANGE_INTERPOLATED,"155 Balmoral Ave, Toronto, ON M4V, Canada",EikxNTUgQmFsbW9yYWwgQXZlLCBUb3JvbnRvLCBPTiBNNFYsIENhbmFkYQ,"155 Balmoral Ave, Toronto, Ontario, Canada",43.6842198,-79.4001781,1,M4V,OK,street_address
+154,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+155,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+156,ROOFTOP,"65 Livingston Rd, Scarborough, ON M1E 1K7, Canada",ChIJHew42qfa1IkRTr6T7g2LKo8,"65 Livingston Rd, Toronto, Ontario, Canada",43.7458578,-79.1980116,1,M1E 1K7,OK,premise
+157,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+158,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+159,ROOFTOP,"22 Norfinch Dr, North York, ON M3N 1X1, Canada",ChIJm-RfDzAwK4gRyCQqqQL0Zmg,"22 Norfinch Dr, Toronto, Ontario, Canada",43.756779,-79.5261834,1,M3N 1X1,OK,street_address
+160,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+161,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+162,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+163,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+164,ROOFTOP,"36 D'Arcy St, Toronto, ON M5T 1J7, Canada",ChIJXX-Uc8Y0K4gRWAiDrT2MsK8,"36 D'Arcy St, Toronto, Ontario, Canada",43.6552664,-79.3931444,1,M5T 1J7,OK,premise
+165,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+166,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+167,ROOFTOP,"3050 Lawrence Ave E, Scarborough, ON M1P 2V5, Canada",ChIJ2yGmZ8vR1IkRrVTkBhTwtW0,"3050 Lawrence Ave E, Toronto, Ontario, Canada",43.7561929,-79.2469386,1,M1P 2V5,OK,street_address
+168,ROOFTOP,"9 Huntley St, Toronto, ON M4Y 1P2, Canada",ChIJX6WolFLL1IkRJmDgcmtgJCg,"9 Huntley St, Toronto, Ontario, Canada",43.6689562,-79.3786044,1,M4Y 1P2,OK,street_address
+169,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+170,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+171,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+172,ROOFTOP,"600 University Ave, Toronto, ON M5G 1X5, Canada",ChIJzTjmZsg0K4gRK8lh-Z5_NgY,"600 University Ave, Toronto, Ontario, Canada",43.6575221,-79.3899928,1,M5G 1X5,OK,premise
+173,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+174,RANGE_INTERPOLATED,"303 Finch Ave E, North York, ON M2M, Canada",EiszMDMgRmluY2ggQXZlIEUsIE5vcnRoIFlvcmssIE9OIE0yTSwgQ2FuYWRh,"303 Finch Ave E, Toronto, Ontario, Canada",43.7849407,-79.3923815,1,M2M,OK,street_address
+175,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+176,ROOFTOP,"339 George St, Toronto, ON M5A 2N2, Canada",ChIJffpyhEnL1IkRl8KTUstxsls,"339 George St, Toronto, Ontario, Canada",43.659956,-79.3742652,1,M5A 2N2,OK,street_address
+177,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+178,ROOFTOP,"200 Dawes Rd, Toronto, ON M4C, Canada",ChIJCauSuCXM1IkR0BUHOJt0HUA,"200 Dawes Rd, Toronto, Ontario, Canada",43.6956956,-79.2979503,1,M4C,OK,street_address
+179,ROOFTOP,"1001 Queen St W #2, Toronto, ON M6J 1H1, Canada",Ei8xMDAxIFF1ZWVuIFN0IFcgIzIsIFRvcm9udG8sIE9OIE02SiAxSDEsIENhbmFkYQ,"1001 Queen St W - Unit 2-2, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,subpremise
+180,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+181,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+182,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+183,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+184,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+185,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+186,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+187,ROOFTOP,"225 St George St, Toronto, ON M5R 2M2, Canada",ChIJD3jjYKI0K4gRm66qINu0b3E,"225 St George St, Toronto, Ontario, Canada",43.6725243,-79.4016131,1,M5R 2M2,OK,street_address
+188,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+189,ROOFTOP,"1145 Albion Rd, Etobicoke, ON M9V 4J7, Canada",ChIJb8IoqIY6K4gRv_2sZY8cfoQ,"1145 Albion Rd, Toronto, Ontario, Canada",43.7372772,-79.567768,1,M9V 4J7,OK,street_address
+190,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+191,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+192,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+193,ROOFTOP,"1140 Bloor St W, Toronto, ON M6H 4E6, Canada",ChIJMTvXtlw0K4gRHCcSxYQ_vqc,"1140 Bloor St W, Toronto, Ontario, Canada",43.6598642,-79.4361232,1,M6H 4E6,OK,street_address
+194,ROOFTOP,"84 Davisville Ave, Toronto, ON M4S 1G1, Canada",ChIJoeL4SDgzK4gRhMi0QXE_Sp0,"84 Davisville Ave, Toronto, Ontario, Canada",43.6995267,-79.3931993,1,M4S 1G1,OK,street_address
+195,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+196,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+197,ROOFTOP,"340 McCowan Rd, Scarborough, ON M1J, Canada",ChIJN1M5btbP1IkRCvdMudsSlDk,"340 McCowan Rd, Toronto, Ontario, Canada",43.7384767,-79.2386391,1,M1J,OK,premise
+198,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+199,ROOFTOP,"45 Brunswick Ave, Toronto, ON M5S 3M3, Canada",ChIJ7yMo8-o0K4gRPqeIw49OeJY,"45 Brunswick Ave, Toronto, Ontario, Canada",43.6587924,-79.4043085,1,M5S 3M3,OK,street_address
+200,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+201,ROOFTOP,"1400 Kennedy Rd, Scarborough, ON M1P 2L6, Canada",ChIJRxMRtfLR1IkRvJcyUFNZhOw,"1400 Kennedy Rd, Toronto, Ontario, Canada",43.7626508,-79.2805622,1,M1P 2L6,OK,street_address
+202,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+203,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+204,ROOFTOP,"59 Lawson Rd, Scarborough, ON M1C 2J1, Canada",ChIJ__qyHk_a1IkRsIBruqdidIc,"59 Lawson Rd, Toronto, Ontario, Canada",43.7832308,-79.1633907,1,M1C 2J1,OK,street_address
+205,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+206,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+207,ROOFTOP,"2121 Kingston Rd, Scarborough, ON M1N 1T5, Canada",ChIJiQkBr_nO1IkRfXR0rYl7WjI,"2121 Kingston Rd, Toronto, Ontario, Canada",43.7005755,-79.2542332,1,M1N 1T5,OK,premise
+208,ROOFTOP,"720 Mt Pleasant Rd, Toronto, ON M4S 2N6, Canada",ChIJU7exJjAzK4gRBG3tkS6QZiQ,"720 Mount Pleasant Rd, Toronto, Ontario, Canada",43.706537,-79.3898153,1,M4S 2N6,OK,street_address
+209,ROOFTOP,"2867 Ellesmere Rd, Scarborough, ON M1E 4B9, Canada",ChIJDWpji4TQ1IkRxyQ3X0OjcSM,"2867 Ellesmere Rd, Toronto, Ontario, Canada",43.7803978,-79.2045492,1,M1E 4B9,OK,street_address
+210,ROOFTOP,"399 Bathurst St, Toronto, ON M5T 2S8, Canada",ChIJ1dw0VOg0K4gRjtAfQ_-EOUY,"399 Bathurst St, Toronto, Ontario, Canada",43.6533856,-79.4059423,1,M5T 2S8,OK,premise
+211,ROOFTOP,"77 Main St, Toronto, ON M4E 2V6, Canada",ChIJh1eQ_xrM1IkRQ5Ci1q_BHw0,"77 Main St, Toronto, Ontario, Canada",43.6815584,-79.298576,1,M4E 2V6,OK,street_address
+212,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+213,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+214,ROOFTOP,"Eaton Building, 200 Elizabeth St, Toronto, ON M5G 2C4, Canada",ChIJM-Vxzsk0K4gR1NpuTfG5Sh0,"200 Elizabeth St, Toronto, Ontario, Canada",43.6590522,-79.387961,1,M5G 2C4,OK,premise
+215,ROOFTOP,"54 Foxbar Rd, Toronto, ON M4V 2G6, Canada",ChIJSbGQsF0zK4gR1Z2Pd-DpRAA,"54 Foxbar Rd, Toronto, Ontario, Canada",43.6856548,-79.400665,1,M4V 2G6,OK,premise
+216,ROOFTOP,"2701 St Clair Ave E, East York, ON M4B 2S9, Canada",ChIJ08t9dUrM1IkRiak2nyXKGmI,"2701 St Clair Ave E, Toronto, Ontario, Canada",43.7056045,-79.3127641,1,M4B 2S9,OK,street_address
+217,ROOFTOP,"2434 Yonge St, Toronto, ON M4P 2H4, Canada",ChIJje-HpSMzK4gRS1UB_cRSm9o,"3276 St Clair Ave E - 2 West (Elm & Pine), Toronto, Ontario, Canada",43.7104264,-79.3993854,2,M4P 2H4,OK,"establishment,furniture_store,home_goods_store,point_of_interest,store"
+218,RANGE_INTERPOLATED,"420 The West Mall, Etobicoke, ON M9C, Canada",Eiw0MjAgVGhlIFdlc3QgTWFsbCwgRXRvYmljb2tlLCBPTiBNOUMsIENhbmFkYQ,"420 The West Mall, Toronto, Ontario, Canada",43.6433817,-79.5667011,1,M9C,OK,street_address
+219,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+220,ROOFTOP,"150 Kilgour Rd, East York, ON M4G 0A2, Canada",ChIJ6Z55aCnN1IkRdlE61SfqRhY,"150 Kilgour Rd, Toronto, Ontario, Canada",43.7182948,-79.3742742,1,M4G 0A2,OK,premise
+221,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+222,ROOFTOP,"221 Milner Ave, Scarborough, ON M1S 4P4, Canada",ChIJyS9rW-PQ1IkRJqOE9neWMb8,"221 Milner Ave, Toronto, Ontario, Canada",43.7881613,-79.2400488,1,M1S 4P4,OK,premise
+223,ROOFTOP,"495 The West Mall, Etobicoke, ON M9C 5S3, Canada",ChIJt3zjay84K4gRuvFA0t9mt0M,"495 The West Mall, Toronto, Ontario, Canada",43.6483147,-79.5676753,1,M9C 5S3,OK,premise
+224,ROOFTOP,"600 University Ave, Toronto, ON M5G 1X5, Canada",ChIJzTjmZsg0K4gRK8lh-Z5_NgY,"600 University Ave, Toronto, Ontario, Canada",43.6575221,-79.3899928,1,M5G 1X5,OK,premise
+225,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+226,ROOFTOP,"600 University Ave, Toronto, ON M5G 1X5, Canada",ChIJzTjmZsg0K4gRK8lh-Z5_NgY,"600 University Ave, Toronto, Ontario, Canada",43.6575221,-79.3899928,1,M5G 1X5,OK,premise
+227,,,,"82 Buttonwood Ave - (Kingsway/Ilaaci unit), Toronto, Ontario, Canada",43.690044,-79.5081813,0,M6M 2J5,Manual,
+228,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+229,ROOFTOP,"2045 Finch Ave W, North York, ON M3N 1M9, Canada",ChIJb30w8DEwK4gR-fUL_UMaKhA,"2045 Finch Ave W, Toronto, Ontario, Canada",43.7562266,-79.521465,1,M3N 1M9,OK,street_address
+230,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+231,ROOFTOP,"4 Teddington Park Ave, Toronto, ON M4N 2C3, Canada",ChIJBW0XbOoyK4gRVuoVRNl9_zs,"4 Teddington Park Ave, Toronto, Ontario, Canada",43.7332368,-79.4038457,1,M4N 2C3,OK,street_address
+232,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+233,ROOFTOP,"130 Dunn Ave, Toronto, ON M6K 2R7, Canada",ChIJHYc8iqU1K4gR9aHer8NRj1k,"130 Dunn Ave, Toronto, Ontario, Canada",43.6348034,-79.4327094,1,M6K 2R7,OK,street_address
+234,ROOFTOP,"550 Cummer Ave, North York, ON M2K 2M2, Canada",ChIJq-0IkdcsK4gRThG6STww1CA,"550 Cummer Ave, Toronto, Ontario, Canada",43.7934039,-79.390669,1,M2K 2M2,OK,premise
+235,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+236,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+237,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+238,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+239,ROOFTOP,"625 Runnymede Rd, Toronto, ON M6S 3A3, Canada",ChIJ7_Vt15k2K4gRMyI_iqlR_cA,"625 Runnymede Rd, Toronto, Ontario, Canada",43.6646809,-79.4812103,1,M6S 3A3,OK,premise
+240,ROOFTOP,"550 University Ave, Toronto, ON M5G 2A2, Canada",ChIJJXdy88g0K4gRvc_Yeasm4Q8,"550 University Ave, Toronto, Ontario, Canada",43.6567727,-79.3897928,1,M5G 2A2,OK,premise
+241,ROOFTOP,"150 Kilgour Rd, East York, ON M4G 0A2, Canada",ChIJ6Z55aCnN1IkRdlE61SfqRhY,"150 Kilgour Rd, Toronto, Ontario, Canada",43.7182948,-79.3742742,1,M4G 0A2,OK,premise
+242,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+243,ROOFTOP,"9 Neilson Rd, Scarborough, ON M1E 4B8, Canada",ChIJDe8jZoPQ1IkR6mjl54sPHQE,"9 Nielson Rd, Toronto, Ontario, Canada",43.7811687,-79.2043244,1,M1E 4B8,OK,street_address
+244,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terrace, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+245,ROOFTOP,"160 Wellesley St E, Toronto, ON M4Y 1J2, Canada",ChIJ75rq7k3L1IkR6bJMdUfNNPU,"160 Wellesley St E, Toronto, Ontario, Canada",43.6668642,-79.3756625,1,M4Y 1J2,OK,street_address
+246,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+247,RANGE_INTERPOLATED,"685 Finch Ave W, Toronto, ON, Canada",EiQ2ODUgRmluY2ggQXZlIFcsIFRvcm9udG8sIE9OLCBDYW5hZGE,"685 Finch Ave W, Toronto, Ontario, Canada",43.7709658,-79.4571202,1,M2R 1P2,OK,street_address
+248,ROOFTOP,"420 The East Mall, Etobicoke, ON M9B 3Z9, Canada",ChIJeeHbHSg4K4gREP1qWe5Xqes,"420 The East Mall, Toronto, Ontario, Canada",43.6475946,-79.560458,1,M9B 3Z9,OK,street_address
+249,ROOFTOP,"215 Tyrrel Ave, Toronto, ON M6G 4A9, Canada",ChIJm2n4D3w0K4gRSZN5zgJefgY,"215 Tyrrel Ave, Toronto, Ontario, Canada",43.6767854,-79.4303386,1,M6G 4A9,OK,street_address
+250,ROOFTOP,"541 Finch Ave W, North York, ON M2R 3Y3, Canada",ChIJd7Ly35ItK4gRuoHR5tUydhE,"541 Finch Ave W, Toronto, Ontario, Canada",43.7708614,-79.4463658,1,M2R 3Y3,OK,street_address
+251,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+252,ROOFTOP,"3555 Danforth Ave, Scarborough, ON M1L 1E3, Canada",ChIJLx5zoJHO1IkRqSdgqHiKQGM,"3555 Danforth Ave, Toronto, Ontario, Canada",43.6936402,-79.2748453,1,M1L 1E3,OK,premise
+253,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+254,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+255,ROOFTOP,"155 Millwood Rd, Toronto, ON M4S 1J6, Canada",ChIJG3jDzDkzK4gRrEYZM-XSCUI,"155 Millwood Rd -  (Lawrence & Fisher unit), Toronto, Ontario, Canada",43.6999924,-79.3925394,3,M4S 1J6,OK,street_address
+256,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+257,ROOFTOP,"3197 Lake Shore Blvd W, Etobicoke, ON M8V 4B7, Canada",ChIJG3EbpjVIK4gRFqAp2XrS_Mo,"3197 Lakeshore Blvd W, Toronto, Ontario, Canada",43.5972081,-79.5184519,1,M8V 4B7,OK,premise
+258,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+259,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+260,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+261,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+262,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+263,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+264,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+265,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+266,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+267,ROOFTOP,"14 Cross St, Toronto, ON M6J 1S8, Canada",ChIJl0JrMlQ0K4gRu_IWr7pwWW0,"14 Cross St, Toronto, Ontario, Canada",43.6481122,-79.4284992,2,M6J 1S8,OK,premise
+268,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+269,ROOFTOP,"450 Rustic Rd, North York, ON M6L 1W9, Canada",ChIJx2yfe3AxK4gRjbcn6fTg6ns,"450 Rustic Rd, Toronto, Ontario, Canada",43.7174094,-79.4821431,1,M6L 1W9,OK,premise
+270,ROOFTOP,"40 Bell Estate Rd, Scarborough, ON M1L 0E2, Canada",ChIJkTyWnWLO1IkRnY9WUigAXPA,"40 Bell Estate Rd, Toronto, Ontario, Canada",43.7057564,-79.2771392,1,M1L 0E2,OK,"establishment,point_of_interest,premise"
+271,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+272,ROOFTOP,"Eaton Building, 200 Elizabeth St, Toronto, ON M5G 2C4, Canada",ChIJM-Vxzsk0K4gR1NpuTfG5Sh0,"200 Elizabeth St, Toronto, Ontario, Canada",43.6590522,-79.387961,1,M5G 2C4,OK,premise
+273,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+274,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+275,ROOFTOP,"1001 Queen St W #1, Toronto, ON M6J 1H1, Canada",Ei8xMDAxIFF1ZWVuIFN0IFcgIzEsIFRvcm9udG8sIE9OIE02SiAxSDEsIENhbmFkYQ,"1001 Queen St W - Unit 1-2, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,subpremise
+276,ROOFTOP,"10 William Morgan Dr, East York, ON M4H 1E7, Canada",ChIJRSEmLfzM1IkRVwJWDzOOmMM,"10 William Morgan Dr, Toronto, Ontario, Canada",43.7092836,-79.3417026,1,M4H 1E7,OK,premise
+277,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+278,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+279,ROOFTOP,"340 McCowan Rd, Scarborough, ON M1J, Canada",ChIJN1M5btbP1IkRCvdMudsSlDk,"340 McCowan Rd, Toronto, Ontario, Canada",43.7384767,-79.2386391,1,M1J,OK,premise
+280,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+281,ROOFTOP,"2339 Dufferin St, York, ON M6E 4Z5, Canada",ChIJg2NeFO0zK4gRqUXclodj1GI,"2339 Dufferin St, Toronto, Ontario, Canada",43.694771,-79.4494602,1,M6E 4Z5,OK,premise
+282,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+283,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+284,,,,"1001 Queen St W - Unit 1-3 LGUB, Toronto, Ontario, Canada",43.6430754,-79.4173192,0,M6J 1H1,Manual,
+285,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+286,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+287,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+288,ROOFTOP,"1066 Avenue Rd, Toronto, ON M5N 0A3, Canada",ChIJxR7ZGREzK4gR_ISpOPLISF4,"1066 Avenue Rd, Toronto, Ontario, Canada",43.7058269,-79.4102128,1,M5N 0A3,OK,premise
+289,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+290,ROOFTOP,"1 Bridgepoint Dr, Toronto, ON M4M 2B5, Canada",ChIJZ7uOzGfL1IkRjPO5erkpawA,"1 Bridgepoint Dr, Toronto, Ontario, Canada",43.6664428,-79.3551541,1,M4M 2B5,OK,street_address
+291,ROOFTOP,"541 Finch Ave W, North York, ON M2R 3Y3, Canada",ChIJd7Ly35ItK4gRuoHR5tUydhE,"541 Finch Ave W, Toronto, Ontario, Canada",43.7708614,-79.4463658,1,M2R 3Y3,OK,street_address
+292,ROOFTOP,"1140 Bloor St W, Toronto, ON M6H 4E6, Canada",ChIJMTvXtlw0K4gRHCcSxYQ_vqc,"1140 Bloor St W, Toronto, Ontario, Canada",43.6598642,-79.4361232,1,M6H 4E6,OK,street_address
+293,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+294,ROOFTOP,"60 Richview Rd, Etobicoke, ON M9A 5E4, Canada",ChIJM6GoEik3K4gRj8mYUBhYk4A,"60 Richview Rd, Toronto, Ontario, Canada",43.684335,-79.518696,1,M9A 5E4,OK,street_address
+295,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+296,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+297,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+298,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+299,ROOFTOP,"9 Neilson Rd, Scarborough, ON M1E 4B8, Canada",ChIJDe8jZoPQ1IkR6mjl54sPHQE,"9 Neilson Rd, Toronto, Ontario, Canada",43.7811687,-79.2043244,1,M1E 4B8,OK,street_address
+300,ROOFTOP,"1000 Ellesmere Rd, Scarborough, ON M1P 2W8, Canada",ChIJ14zRHZLR1IkRhW8wAES8ACY,"1000 Ellesmere Rd, Toronto, Ontario, Canada",43.7670757,-79.277839,1,M1P 2W8,OK,street_address
+301,ROOFTOP,"2339 Dufferin St, York, ON M6E 4Z5, Canada",ChIJg2NeFO0zK4gRqUXclodj1GI,"2339 Dufferin St, Toronto, Ontario, Canada",43.694771,-79.4494602,1,M6E 4Z5,OK,premise
+302,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+303,ROOFTOP,"550 Cummer Ave, North York, ON M2K 2M2, Canada",ChIJq-0IkdcsK4gRThG6STww1CA,"550 Cummer Ave, Toronto, Ontario, Canada",43.7934039,-79.390669,1,M2K 2M2,OK,premise
+304,ROOFTOP,"60 Guildwood Pkwy, Scarborough, ON M1E 1N9, Canada",ChIJ7wtXiQjQ1IkRXNyAHJYmmmM,"60 Guildwood Pky, Toronto, Ontario, Canada",43.7468545,-79.2031279,1,M1E 1N9,OK,premise
+305,ROOFTOP,"80 Workman Way, Toronto, ON M6J 1H4, Canada",ChIJcwsR8v00K4gRzTxT3hlvGkA,"1001 Queen St W - 80 Workman Way - 3rd Fl, Toronto, Ontario, Canada",43.6436757,-79.4175072,1,M6J 1H4,OK,premise
+306,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+307,ROOFTOP,"250 College St, Toronto, ON M5T 1R8, Canada",ChIJmV3x8sA0K4gRJ2zHJ_8FDjA,"250 College St, Toronto, Ontario, Canada",43.659269,-79.3994776,1,M5T 1R8,OK,premise
+308,RANGE_INTERPOLATED,"685 Finch Ave W, Toronto, ON, Canada",EiQ2ODUgRmluY2ggQXZlIFcsIFRvcm9udG8sIE9OLCBDYW5hZGE,"685 Finch Ave W, Toronto, Ontario, Canada",43.7709658,-79.4571202,1,M2R 1P2,OK,street_address
+309,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+310,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr - 4th Fl, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+311,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+312,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+313,ROOFTOP,"1 Bridgepoint Dr, Toronto, ON M4M 2B5, Canada",ChIJZ7uOzGfL1IkRjPO5erkpawA,"1 Bridgepoint Dr, Toronto, Ontario, Canada",43.6664428,-79.3551541,1,M4M 2B5,OK,street_address
+314,ROOFTOP,"148 Markham Rd, Scarborough, ON M1M 2Z8, Canada",ChIJqV038h7Q1IkRAOnkmuZIWIs,"148 Markham Rd, Toronto, Ontario, Canada",43.7407688,-79.2187682,1,M1M 2Z8,OK,premise
+315,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+316,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+317,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+318,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+319,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+320,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+321,RANGE_INTERPOLATED,"2239 Dufferin St, York, ON M6E 3S2, Canada",EioyMjM5IER1ZmZlcmluIFN0LCBZb3JrLCBPTiBNNkUgM1MyLCBDYW5hZGE,"2239 Dufferin St, Toronto, Ontario, Canada",43.6921889,-79.4487915,1,M6E 3S2,OK,street_address
+322,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+323,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+324,ROOFTOP,"1 Northwestern Ave, Toronto, ON M6M, Canada",ChIJSbyCaOIzK4gRFktV5MJ_fk0,"1 Northwestern Ave, Toronto, Ontario, Canada",43.698206,-79.4697775,1,M6M,OK,street_address
+325,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+326,ROOFTOP,"1 Northwestern Ave, Toronto, ON M6M, Canada",ChIJSbyCaOIzK4gRFktV5MJ_fk0,"1 Northwestern Ave, Toronto, Ontario, Canada",43.698206,-79.4697775,1,M6M,OK,street_address
+327,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+328,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+329,ROOFTOP,"148 Markham Rd, Scarborough, ON M1M 2Z8, Canada",ChIJqV038h7Q1IkRAOnkmuZIWIs,"148 Markham Rd, Toronto, Ontario, Canada",43.7407688,-79.2187682,1,M1M 2Z8,OK,premise
+330,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+331,ROOFTOP,"914 Bathurst St, Toronto, ON M5R 3G5, Canada",ChIJPYf6tZE0K4gRc96ZbEc3MV8,"914 Bathurst St, Toronto, Ontario, Canada",43.6682935,-79.4127583,1,M5R 3G5,OK,street_address
+332,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+333,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+334,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+335,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+336,ROOFTOP,"795 Eglinton Ave E, East York, ON M4G 2L1, Canada",ChIJ6_lMitjM1IkRyypO_Hp7nPw,"795 Eglinton Ave E, Toronto, Ontario, Canada",43.7131213,-79.3661381,1,M4G 2L1,OK,premise
+337,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+338,ROOFTOP,"147 Elder St, North York, ON M3H 5G9, Canada",ChIJEQbIhfYtK4gRsvt0x4iinFQ,"147 Elder St, Toronto, Ontario, Canada",43.7628856,-79.4541054,1,M3H 5G9,OK,premise
+339,ROOFTOP,"200 Dawes Rd, Toronto, ON M4C, Canada",ChIJCauSuCXM1IkR0BUHOJt0HUA,"200 Dawes Rd, Toronto, Ontario, Canada",43.6956956,-79.2979503,1,M4C,OK,street_address
+340,ROOFTOP,"45 Brunswick Ave, Toronto, ON M5S 3M3, Canada",ChIJ7yMo8-o0K4gRPqeIw49OeJY,"45 Brunswick Ave, Toronto, Ontario, Canada",43.6587924,-79.4043085,1,M5S 3M3,OK,street_address
+341,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr - 2nd Fl, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+342,ROOFTOP,"914 Bathurst St, Toronto, ON M5R 3G5, Canada",ChIJPYf6tZE0K4gRc96ZbEc3MV8,"914 Bathurst St, Toronto, Ontario, Canada",43.6682935,-79.4127583,1,M5R 3G5,OK,street_address
+343,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+344,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+345,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+346,ROOFTOP,"1001 Queen St W, Toronto, ON M6J 1H1, Canada",ChIJ67l7Bf00K4gRW_zZYmBVoTs,"1001 Queen St W, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,street_address
+347,ROOFTOP,"9 Neilson Rd, Scarborough, ON M1E 4B8, Canada",ChIJDe8jZoPQ1IkR6mjl54sPHQE,"9 Neilson Rd, Toronto, Ontario, Canada",43.7811687,-79.2043244,1,M1E 4B8,OK,street_address
+348,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+349,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+350,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+351,ROOFTOP,"9 Neilson Rd, Scarborough, ON M1E 4B8, Canada",ChIJDe8jZoPQ1IkR6mjl54sPHQE,"9 Neilson Rd, Toronto, Ontario, Canada",43.7811687,-79.2043244,1,M1E 4B8,OK,street_address
+352,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+353,RANGE_INTERPOLATED,"3276 Balsam Ridge, Millstadt, IL 62260, USA",EiszMjc2IEJhbHNhbSBSaWRnZSwgTWlsbHN0YWR0LCBJTCA2MjI2MCwgVVNB,"3276 St Clair Ave E - Balsam & Maple, Toronto, Ontario, Canada",38.4640783,-90.0609268,1,62260,OK,street_address
+354,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+355,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+356,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+357,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+358,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+359,ROOFTOP,"3050 Lawrence Ave E, Scarborough, ON M1P 2V5, Canada",ChIJ2yGmZ8vR1IkRrVTkBhTwtW0,"3050 Lawrence Ave E, Toronto, Ontario, Canada",43.7561929,-79.2469386,1,M1P 2V5,OK,street_address
+360,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+361,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+362,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+363,ROOFTOP,"95 Humber College Blvd, Etobicoke, ON M9V 5B5, Canada",ChIJw2ocNlA6K4gR18mFuy1kdWE,"95 Humber College Blvd, Toronto, Ontario, Canada",43.7271674,-79.5965005,1,M9V 5B5,OK,premise
+364,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+365,ROOFTOP,"5935 Bathurst St, North York, ON M2R 1Y8, Canada",ChIJqQQz3L4tK4gRLjJ25KvkPAo,"5935 Bathurst St, Toronto, Ontario, Canada",43.7819319,-79.4446646,1,M2R 1Y8,OK,street_address
+366,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+367,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+368,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+369,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+370,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+371,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+372,ROOFTOP,"645 Castlefield Ave, Toronto, ON M5N 3A5, Canada",ChIJE5DX4wkzK4gRirm5I-w8KIE,"645 Castlefield Ave, Toronto, Ontario, Canada",43.7062115,-79.4252457,1,M5N 3A5,OK,premise
+373,ROOFTOP,"2245 Lawrence Ave W, Etobicoke, ON M9P 3W3, Canada",ChIJB94cI84wK4gRFJ9ooseyQ9c,"2245 Lawrence Ave W, Toronto, Ontario, Canada",43.6968243,-79.5262318,1,M9P 3W3,OK,street_address
+374,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+375,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+376,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+377,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+378,,,,"1001 Queen St W - 80 Workman Way - 2nd Fl GAU-A, Toronto, Ontario, Canada",43.6430754,-79.4173192,0,M6J 1H1,Manual,
+379,ROOFTOP,"2311 McNicoll Ave, Scarborough, ON M1V 5L3, Canada",ChIJe2XHjf3T1IkRBPb32GhfoSg,"2311 McNicoll Ave, Toronto, Ontario, Canada",43.8142238,-79.2902139,1,M1V 5L3,OK,street_address
+380,ROOFTOP,"1145 Albion Rd, Etobicoke, ON M9V 4J7, Canada",ChIJb8IoqIY6K4gRv_2sZY8cfoQ,"1145 Albion Rd, Toronto, Ontario, Canada",43.7372772,-79.567768,1,M9V 4J7,OK,street_address
+381,ROOFTOP,"2005 Lawrence Ave W, York, ON M9N 3V4, Canada",ChIJb9c7fSYxK4gRlbSJeDpkmmo,"2005 Lawrence Ave W - 1st Fl, Toronto, Ontario, Canada",43.701231,-79.510148,1,M9N 3V4,OK,street_address
+382,ROOFTOP,"541 Finch Ave W, North York, ON M2R 3Y3, Canada",ChIJd7Ly35ItK4gRuoHR5tUydhE,"541 Finch Ave W, Toronto, Ontario, Canada",43.7708614,-79.4463658,1,M2R 3Y3,OK,street_address
+383,ROOFTOP,"14 St Matthews Rd, Toronto, ON M4M 2B5, Canada",ChIJIaN_1WfL1IkR96201y0bAGo,"14 St Matthews Rd, Toronto, Ontario, Canada",43.6656154,-79.3551739,1,M4M 2B5,OK,street_address
+384,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+385,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+386,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+387,ROOFTOP,"1 Northwestern Ave, Toronto, ON M6M, Canada",ChIJSbyCaOIzK4gRFktV5MJ_fk0,"1 Northwestern Ave, Toronto, Ontario, Canada",43.698206,-79.4697775,1,M6M,OK,street_address
+388,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+389,ROOFTOP,"1 Canterbury Pl, North York, ON M2N 1Z7, Canada",ChIJFTAicXItK4gRAPIZEJ1MKzU,"1 Canterbury Pl, Toronto, Ontario, Canada",43.7721224,-79.4144005,1,M2N 1Z7,OK,street_address
+390,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+391,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+392,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+393,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+394,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+395,ROOFTOP,"25 Centennial Park Rd, Etobicoke, ON M9C 5H1, Canada",ChIJt2nYCzY4K4gRJoq9x0qV3fo,"25 Centennial Park Rd, Toronto, Ontario, Canada",43.6532313,-79.5820289,1,M9C 5H1,OK,premise
+396,ROOFTOP,"345 Sherbourne St, Toronto, ON M5A 2S3, Canada",ChIJC3KczU7L1IkRWnS2xkikd7E,"345 Sherbourne St, Toronto, Ontario, Canada",43.662669,-79.3726619,1,M5A 2S3,OK,street_address
+397,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+398,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+399,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+400,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+401,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+402,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+403,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+404,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+405,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+406,ROOFTOP,"429 Walmer Rd, York, ON M5P 2X9, Canada",ChIJUUDOnmQzK4gRPcqv0qchVwQ,"429 Walmer Rd, Toronto, Ontario, Canada",43.685476,-79.4124884,1,M5P 2X9,OK,street_address
+407,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+408,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+409,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+410,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+411,ROOFTOP,"66 Roncesvalles Ave, Toronto, ON M6R 3A8, Canada",ChIJL2pGGrY1K4gRYXP_lNAAjdY,"66 Roncesvalles Ave, Toronto, Ontario, Canada",43.6401995,-79.4473076,1,M6R 3A8,OK,street_address
+412,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+413,ROOFTOP,"520 Markham Rd, Scarborough, ON M1H 3A1, Canada",ChIJwYWstT_Q1IkRTOcKAJqPK-0,"520 Markham Rd, Toronto, Ontario, Canada",43.7547332,-79.2248583,1,M1H 3A1,OK,street_address
+414,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+415,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+416,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+417,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+418,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+419,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+420,ROOFTOP,"45 Brunswick Ave, Toronto, ON M5S 3M3, Canada",ChIJ7yMo8-o0K4gRPqeIw49OeJY,"45 Brunswick Ave, Toronto, Ontario, Canada",43.6587924,-79.4043085,1,M5S 3M3,OK,street_address
+421,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+422,ROOFTOP,"2411 Lawrence Ave E, Scarborough, ON M1P 2R6, Canada",ChIJ0UA1ZubR1IkRVRNZnDfR2ZM,"2411 Lawrence Ave E, Toronto, Ontario, Canada",43.7491616,-79.2741252,1,M1P 2R6,OK,street_address
+423,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+424,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+425,ROOFTOP,"45 Brunswick Ave, Toronto, ON M5S 3M3, Canada",ChIJ7yMo8-o0K4gRPqeIw49OeJY,"45 Brunswick Ave, Toronto, Ontario, Canada",43.6587924,-79.4043085,1,M5S 3M3,OK,street_address
+426,ROOFTOP,"122 Tyndall Ave, Toronto, ON M6K 2E2, Canada",ChIJe0jkGak1K4gRJ0mWuAPHaXo,"122 Tyndall Ave, Toronto, Ontario, Canada",43.6375142,-79.4293785,1,M6K 2E2,OK,premise
+427,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+428,ROOFTOP,"84 Davisville Ave, Toronto, ON M4S 1G1, Canada",ChIJoeL4SDgzK4gRhMi0QXE_Sp0,"84 Davisville Ave, Toronto, Ontario, Canada",43.6995267,-79.3931993,1,M4S 1G1,OK,street_address
+429,ROOFTOP,"65 Livingston Rd, Scarborough, ON M1E 1K7, Canada",ChIJHew42qfa1IkRTr6T7g2LKo8,"65 Livingston Rd, Toronto, Ontario, Canada",43.7458578,-79.1980116,1,M1E 1K7,OK,premise
+430,ROOFTOP,"305 Balliol St, Toronto, ON M4S, Canada",ChIJ_QjKZTYzK4gRZjpPuV8SI_A,"305 Balliol St, Toronto, Ontario, Canada",43.698932,-79.3868671,1,M4S,OK,premise
+431,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+432,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+433,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+434,,,,"3050 Lawrence Ave E - CP1, Toronto, Ontario, Canada",43.7561929,-79.2469386,0,M1P 2V5,Manual,
+435,ROOFTOP,"5935 Bathurst St, North York, ON M2R 1Y8, Canada",ChIJqQQz3L4tK4gRLjJ25KvkPAo,"5935 Bathurst St, Toronto, Ontario, Canada",43.7819319,-79.4446646,1,M2R 1Y8,OK,street_address
+436,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+437,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+438,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+439,ROOFTOP,"1340 York Mills Rd, North York, ON M3A 3R1, Canada",ChIJFTQGFmnS1IkR3rA-w7024xI,"1340 York Mills Rd, Toronto, Ontario, Canada",43.7632297,-79.3200614,1,M3A 3R1,OK,premise
+440,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+441,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+442,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+443,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+444,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+445,ROOFTOP,"111 Avenue Rd, Toronto, ON M5R 3J8, Canada",ChIJYbQ_OaQ0K4gRO4LeRrdDI3Q,"111 Avenue Rd, Toronto, Ontario, Canada",43.6731972,-79.3954314,1,M5R 3J8,OK,premise
+446,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+447,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+448,ROOFTOP,"1145 Albion Rd, Etobicoke, ON M9V 4J7, Canada",ChIJb8IoqIY6K4gRv_2sZY8cfoQ,"1145 Albion Rd, Toronto, Ontario, Canada",43.7372772,-79.567768,1,M9V 4J7,OK,street_address
+449,ROOFTOP,"3595 Keele St, North York, ON M3J 1M7, Canada",ChIJD3z84O4xK4gRAijRL8JarJY,"3595 Keele St, Toronto, Ontario, Canada",43.7511756,-79.4855923,1,M3J 1M7,OK,premise
+450,ROOFTOP,"306 Finch Ave E, North York, ON M2N 4S5, Canada",ChIJx-LFAyUtK4gRasLR8uoUYe0,"306 Finch Ave E, Toronto, Ontario, Canada",43.7850097,-79.394112,1,M2N 4S5,OK,premise
+451,ROOFTOP,"36 D'Arcy St, Toronto, ON M5T 1J7, Canada",ChIJXX-Uc8Y0K4gRWAiDrT2MsK8,"36 D'Arcy St, Toronto, Ontario, Canada",43.6552664,-79.3931444,1,M5T 1J7,OK,premise
+452,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+453,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+454,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+455,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+456,ROOFTOP,"420 The East Mall, Etobicoke, ON M9B 3Z9, Canada",ChIJeeHbHSg4K4gREP1qWe5Xqes,"420 The East Mall, Toronto, Ontario, Canada",43.6475946,-79.560458,1,M9B 3Z9,OK,street_address
+457,ROOFTOP,"52 Neilson Dr, Etobicoke, ON M9C 1V7, Canada",ChIJ57enlxw4K4gRIuwYcQ1QPeI,"52 Neilson Dr, Toronto, Ontario, Canada",43.6294884,-79.5651348,1,M9C 1V7,OK,street_address
+458,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 Mcnicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+459,ROOFTOP,"795 Eglinton Ave E, East York, ON M4G 2L1, Canada",ChIJ6_lMitjM1IkRyypO_Hp7nPw,"795 Eglinton Ave E, Toronto, Ontario, Canada",43.7131213,-79.3661381,1,M4G 2L1,OK,premise
+460,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+461,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+462,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+463,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+464,RANGE_INTERPOLATED,"685 Finch Ave W, Toronto, ON, Canada",EiQ2ODUgRmluY2ggQXZlIFcsIFRvcm9udG8sIE9OLCBDYW5hZGE,"685 Finch Ave W, Toronto, Ontario, Canada",43.7709658,-79.4571202,1,M2R 1P2,OK,street_address
+465,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+466,ROOFTOP,"767 Royal York Rd, Etobicoke, ON M8Y 2T3, Canada",ChIJHSFPJk82K4gRY-LJMkCbtJc,"767 Royal York Rd, Toronto, Ontario, Canada",43.6377092,-79.5067342,1,M8Y 2T3,OK,street_address
+467,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+468,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+469,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+470,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+471,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+472,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+473,ROOFTOP,"150 Dunn Ave, Toronto, ON M6K 2R6, Canada",ChIJI5vXba81K4gR4I_dpUpI9LY,"150 Dunn Ave, Toronto, Ontario, Canada",43.6358176,-79.4329805,1,M6K 2R6,OK,street_address
+474,ROOFTOP,"645 Castlefield Ave, Toronto, ON M5N 3A5, Canada",ChIJE5DX4wkzK4gRirm5I-w8KIE,"645 Castlefield Ave, Toronto, Ontario, Canada",43.7062115,-79.4252457,1,M5N 3A5,OK,premise
+475,ROOFTOP,"2339 Dufferin St, York, ON M6E 4Z5, Canada",ChIJg2NeFO0zK4gRqUXclodj1GI,"2339 Dufferin St, Toronto, Ontario, Canada",43.694771,-79.4494602,1,M6E 4Z5,OK,premise
+476,ROOFTOP,"1001 Queen St W #2, Toronto, ON M6J 1H1, Canada",Ei8xMDAxIFF1ZWVuIFN0IFcgIzIsIFRvcm9udG8sIE9OIE02SiAxSDEsIENhbmFkYQ,"1001 Queen St W - Unit 2-4, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,subpremise
+477,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+478,ROOFTOP,"45 Brunswick Ave, Toronto, ON M5S 3M3, Canada",ChIJ7yMo8-o0K4gRPqeIw49OeJY,"45 Brunswick Ave, Toronto, Ontario, Canada",43.6587924,-79.4043085,1,M5S 3M3,OK,street_address
+479,ROOFTOP,"123 Spadina Rd, Toronto, ON M5R 2T1, Canada",ChIJkzE7S5g0K4gR0HUUrzrf8Lg,"123 Spadina Rd, Toronto, Ontario, Canada",43.6717109,-79.4054592,1,M5R 2T1,OK,street_address
+480,ROOFTOP,"15 Barberry Pl, North York, ON M2K 1G9, Canada",ChIJXzF-Q0wtK4gRJLGSdwkh5Pc,"15 Barbery Pl, Toronto, Ontario, Canada",43.7663864,-79.3839957,1,M2K 1G9,OK,premise
+481,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+482,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJM_wXDC_R1IkRHWMyBYFRcog,"60 Scottfield Dr - 3rd & 5th Fl, Toronto, Ontario, Canada",43.808708,-79.254662,1,M1S 5T7,OK,"establishment,health,point_of_interest"
+483,ROOFTOP,"550 Cummer Ave, North York, ON M2K 2M2, Canada",ChIJq-0IkdcsK4gRThG6STww1CA,"550 Cummer Ave, Toronto, Ontario, Canada",43.7934039,-79.390669,1,M2K 2M2,OK,premise
+484,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+485,ROOFTOP,"2601 Bayview Ave, North York, ON M2L 1B3, Canada",ChIJv_b-SqoyK4gReMmM5CQCxv4,"2601 Bayview Ave, Toronto, Ontario, Canada",43.7514086,-79.3844355,1,M2L 1B3,OK,premise
+486,ROOFTOP,"8 The Donway E, North York, ON M3C 3R7, Canada",ChIJFXF09HPN1IkR1FF9nK-0gEI,"8 Donway Pl E, Toronto, Ontario, Canada",43.7342394,-79.3406589,2,M3C 3R7,OK,premise
+487,ROOFTOP,"221 Milner Ave, Scarborough, ON M1S 4P4, Canada",ChIJyS9rW-PQ1IkRJqOE9neWMb8,"221 Milner Ave, Toronto, Ontario, Canada",43.7881613,-79.2400488,1,M1S 4P4,OK,premise
+488,ROOFTOP,"52 Neilson Dr, Etobicoke, ON M9C 1V7, Canada",ChIJ57enlxw4K4gRIuwYcQ1QPeI,"52 Neilson Dr, Toronto, Ontario, Canada",43.6294884,-79.5651348,1,M9C 1V7,OK,street_address
+489,ROOFTOP,"1400 Kennedy Rd, Scarborough, ON M1P 2L6, Canada",ChIJRxMRtfLR1IkRvJcyUFNZhOw,"1400 Kennedy Rd, Toronto, Ontario, Canada",43.7626508,-79.2805622,1,M1P 2L6,OK,street_address
+490,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+491,ROOFTOP,"150 Kilgour Rd, East York, ON M4G 0A2, Canada",ChIJ6Z55aCnN1IkRdlE61SfqRhY,"150 Kilgour Rd, Toronto, Ontario, Canada",43.7182948,-79.3742742,1,M4G 0A2,OK,premise
+492,ROOFTOP,"720 Mt Pleasant Rd, Toronto, ON M4S 2N6, Canada",ChIJU7exJjAzK4gRBG3tkS6QZiQ,"720 Mount Pleasant Rd, Toronto, Ontario, Canada",43.706537,-79.3898153,1,M4S 2N6,OK,street_address
+493,ROOFTOP,"65 Livingston Rd, Scarborough, ON M1E 1K7, Canada",ChIJHew42qfa1IkRTr6T7g2LKo8,"65 Livingston Rd, Toronto, Ontario, Canada",43.7458578,-79.1980116,1,M1E 1K7,OK,premise
+494,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+495,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+496,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+497,ROOFTOP,"550 University Ave, Toronto, ON M5G 2A2, Canada",ChIJJXdy88g0K4gRvc_Yeasm4Q8,"550 University Ave - 6 South, Toronto, Ontario, Canada",43.6567727,-79.3897928,1,M5G 2A2,OK,premise
+498,ROOFTOP,"4251 Dundas St W, Etobicoke, ON M8X 1Y3, Canada",ChIJEYcgnP02K4gRidGT9bVGB30,"4251 Dundas St W, Toronto, Ontario, Canada",43.6588187,-79.5144263,1,M8X 1Y3,OK,premise
+499,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+500,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+501,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+502,ROOFTOP,"3705 Bathurst St, North York, ON M5M 2X4, Canada",ChIJZ3OHZVwyK4gRwduPk6jXsPM,"3705 Bathurst St, Toronto, Ontario, Canada",43.7353736,-79.4331152,1,M5M 2X4,OK,premise
+503,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+504,ROOFTOP,"60 Guildwood Pkwy, Scarborough, ON M1E 1N9, Canada",ChIJ7wtXiQjQ1IkRXNyAHJYmmmM,"60 Guildwood Pky, Toronto, Ontario, Canada",43.7468545,-79.2031279,1,M1E 1N9,OK,premise
+505,ROOFTOP,"95 Humber College Blvd, Etobicoke, ON M9V 5B5, Canada",ChIJw2ocNlA6K4gR18mFuy1kdWE,"95 Humber College Blvd, Toronto, Ontario, Canada",43.7271674,-79.5965005,1,M9V 5B5,OK,premise
+506,ROOFTOP,"2245 Lawrence Ave W, Etobicoke, ON M9P 3W3, Canada",ChIJB94cI84wK4gRFJ9ooseyQ9c,"2245 Lawrence Ave W, Toronto, Ontario, Canada",43.6968243,-79.5262318,1,M9P 3W3,OK,street_address
+507,ROOFTOP,"305 Balliol St, Toronto, ON M4S, Canada",ChIJ_QjKZTYzK4gRZjpPuV8SI_A,"305 Balliol St, Toronto, Ontario, Canada",43.698932,-79.3868671,1,M4S,OK,premise
+508,ROOFTOP,"1238 Queen St E, Toronto, ON M4L 1C3, Canada",ChIJ0TT4VoPL1IkR9t19gGXGP38,"1238 Queen St E, Toronto, Ontario, Canada",43.6636476,-79.3298035,1,M4L 1C3,OK,premise
+509,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+510,ROOFTOP,"3595 Keele St, North York, ON M3J 1M7, Canada",ChIJD3z84O4xK4gRAijRL8JarJY,"3595 Keele St, Toronto, Ontario, Canada",43.7511756,-79.4855923,1,M3J 1M7,OK,premise
+511,ROOFTOP,"2121 Kingston Rd, Scarborough, ON M1N 1T5, Canada",ChIJiQkBr_nO1IkRfXR0rYl7WjI,"2121 Kingston Rd, Toronto, Ontario, Canada",43.7005755,-79.2542332,1,M1N 1T5,OK,premise
+512,ROOFTOP,"2005 Lawrence Ave W, York, ON M9N 3V4, Canada",ChIJb9c7fSYxK4gRlbSJeDpkmmo,"2005 Lawrence Ave W, Toronto, Ontario, Canada",43.701231,-79.510148,1,M9N 3V4,OK,street_address
+513,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+514,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+515,ROOFTOP,"3197 Lake Shore Blvd W, Etobicoke, ON M8V 4B7, Canada",ChIJG3EbpjVIK4gRFqAp2XrS_Mo,"3197 Lakeshore Blvd W, Toronto, Ontario, Canada",43.5972081,-79.5184519,1,M8V 4B7,OK,premise
+516,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+517,ROOFTOP,"1066 Avenue Rd, Toronto, ON M5N 0A3, Canada",ChIJxR7ZGREzK4gR_ISpOPLISF4,"1066 Avenue Rd, Toronto, Ontario, Canada",43.7058269,-79.4102128,1,M5N 0A3,OK,premise
+518,ROOFTOP,"610 University Ave, Toronto, ON M5G 2M9, Canada",ChIJeXrnbMg0K4gR4ZeQCsd0MzA,"610 University Ave, Toronto, Ontario, Canada",43.6581169,-79.3907253,1,M5G 2M9,OK,premise
+519,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+520,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+521,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+522,ROOFTOP,"718 Sheppard Ave W, North York, ON M3H 2S6, Canada",ChIJ2cBqeXMyK4gRcHeZvjcTlzY,"718 Sheppard Ave W, Toronto, Ontario, Canada",43.7542399,-79.4453406,1,M3H 2S6,OK,street_address
+523,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+524,ROOFTOP,"4180 Dundas St W, Etobicoke, ON M8X 1X8, Canada",ChIJ8QpZVOM2K4gRXixbpCa2rxU,"4180 Dundas St W, Toronto, Ontario, Canada",43.6612466,-79.5100624,1,M8X 1X8,OK,premise
+525,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+526,ROOFTOP,"60 Guildwood Pkwy, Scarborough, ON M1E 1N9, Canada",ChIJ7wtXiQjQ1IkRXNyAHJYmmmM,"60 Guildwood Pky, Toronto, Ontario, Canada",43.7468545,-79.2031279,1,M1E 1N9,OK,premise
+527,ROOFTOP,"123 Spadina Rd, Toronto, ON M5R 2T1, Canada",ChIJkzE7S5g0K4gR0HUUrzrf8Lg,"123 Spadina Rd, Toronto, Ontario, Canada",43.6717109,-79.4054592,1,M5R 2T1,OK,street_address
+528,ROOFTOP,"59 Lawson Rd, Scarborough, ON M1C 2J1, Canada",ChIJ__qyHk_a1IkRsIBruqdidIc,"59 Lawson Rd, Toronto, Ontario, Canada",43.7832308,-79.1633907,1,M1C 2J1,OK,street_address
+529,ROOFTOP,"1340 York Mills Rd, North York, ON M3A 3R1, Canada",ChIJFTQGFmnS1IkR3rA-w7024xI,"1340 York Mills Rd, Toronto, Ontario, Canada",43.7632297,-79.3200614,1,M3A 3R1,OK,premise
+530,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+531,ROOFTOP,"399 Bathurst St, Toronto, ON M5T 2S8, Canada",ChIJ1dw0VOg0K4gRjtAfQ_-EOUY,"399 Bathurst St, Toronto, Ontario, Canada",43.6533856,-79.4059423,1,M5T 2S8,OK,premise
+532,ROOFTOP,"66 Roncesvalles Ave, Toronto, ON M6R 3A8, Canada",ChIJL2pGGrY1K4gRYXP_lNAAjdY,"66 Roncesvalles Ave, Toronto, Ontario, Canada",43.6401995,-79.4473076,1,M6R 3A8,OK,street_address
+533,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+534,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+535,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+536,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+537,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+538,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+539,ROOFTOP,"22 Norfinch Dr, North York, ON M3N 1X1, Canada",ChIJm-RfDzAwK4gRyCQqqQL0Zmg,"22 Norfinch Dr, Toronto, Ontario, Canada",43.756779,-79.5261834,1,M3N 1X1,OK,street_address
+540,ROOFTOP,"221 Milner Ave, Scarborough, ON M1S 4P4, Canada",ChIJyS9rW-PQ1IkRJqOE9neWMb8,"221 Milner Ave, Toronto, Ontario, Canada",43.7881613,-79.2400488,1,M1S 4P4,OK,premise
+541,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+542,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+543,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+544,RANGE_INTERPOLATED,"5758 Sheppard Ave E, Scarborough, ON M1B 5J6, Canada",EjQ1NzU4IFNoZXBwYXJkIEF2ZSBFLCBTY2FyYm9yb3VnaCwgT04gTTFCIDVKNiwgQ2FuYWRh,"5758 Sheppard Ave E, Toronto, Ontario, Canada",43.795786,-79.2319684,1,M1B 5J6,OK,street_address
+545,ROOFTOP,"1 Bridgepoint Dr, Toronto, ON M4M 2B5, Canada",ChIJZ7uOzGfL1IkRjPO5erkpawA,"1 Bridgepoint Dr, Toronto, Ontario, Canada",43.6664428,-79.3551541,1,M4M 2B5,OK,street_address
+546,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+547,ROOFTOP,"450 Rustic Rd, North York, ON M6L 1W9, Canada",ChIJx2yfe3AxK4gRjbcn6fTg6ns,"450 Rustic Rd, Toronto, Ontario, Canada",43.7174094,-79.4821431,1,M6L 1W9,OK,premise
+548,ROOFTOP,"541 Finch Ave W, North York, ON M2R 3Y3, Canada",ChIJd7Ly35ItK4gRuoHR5tUydhE,"541 Finch Ave W, Toronto, Ontario, Canada",43.7708614,-79.4463658,1,M2R 3Y3,OK,street_address
+549,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+550,ROOFTOP,"95 Humber College Blvd, Etobicoke, ON M9V 5B5, Canada",ChIJw2ocNlA6K4gR18mFuy1kdWE,"95 Humber College Blvd, Toronto, Ontario, Canada",43.7271674,-79.5965005,1,M9V 5B5,OK,premise
+551,ROOFTOP,"306 Finch Ave E, North York, ON M2N 4S5, Canada",ChIJx-LFAyUtK4gRasLR8uoUYe0,"306 Finch Ave E, Toronto, Ontario, Canada",43.7850097,-79.394112,1,M2N 4S5,OK,premise
+552,ROOFTOP,"1800 O'Connor Dr, North York, ON M4A 2R4, Canada",ChIJ56kzVMTN1IkRAZAjuZr-Uy0,"1800 O'Connor Dr, Toronto, Ontario, Canada",43.7205513,-79.3049625,1,M4A 2R4,OK,street_address
+553,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+554,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+555,ROOFTOP,"43 Wellesley St E, Toronto, ON M4Y 1H1, Canada",ChIJ4UJhA7M0K4gROxTKBqd5kHk,"43 Wellesley St E - 17E Holland Centre, Toronto, Ontario, Canada",43.6650195,-79.3823361,1,M4Y 1H1,OK,"establishment,health,point_of_interest"
+556,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+557,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+558,ROOFTOP,"1 Northwestern Ave, Toronto, ON M6M, Canada",ChIJSbyCaOIzK4gRFktV5MJ_fk0,"1 Northwestern Ave, Toronto, Ontario, Canada",43.698206,-79.4697775,1,M6M,OK,street_address
+559,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+560,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+561,ROOFTOP,"2311 McNicoll Ave, Scarborough, ON M1V 5L3, Canada",ChIJe2XHjf3T1IkRBPb32GhfoSg,"2311 McNicoll Ave, Toronto, Ontario, Canada",43.8142238,-79.2902139,1,M1V 5L3,OK,street_address
+562,ROOFTOP,"1400 Kennedy Rd, Scarborough, ON M1P 2L6, Canada",ChIJRxMRtfLR1IkRvJcyUFNZhOw,"1400 Kennedy Rd, Toronto, Ontario, Canada",43.7626508,-79.2805622,1,M1P 2L6,OK,street_address
+563,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+564,ROOFTOP,"4005 Eglinton Ave W, Etobicoke, ON M9A 4L3, Canada",ChIJMyTzzyg3K4gRg7ykewfDHpE,"4005 Eglinton Ave W, Toronto, Ontario, Canada",43.68288,-79.5207358,1,M9A 4L3,OK,premise
+565,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+566,ROOFTOP,"399 Bathurst St, Toronto, ON M5T 2S8, Canada",ChIJ1dw0VOg0K4gRjtAfQ_-EOUY,"399 Bathurst St, Toronto, Ontario, Canada",43.6533856,-79.4059423,1,M5T 2S8,OK,premise
+567,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+568,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+569,ROOFTOP,"3838 Bloor St W, Etobicoke, ON M9B 1L1, Canada",ChIJBwXdPZY3K4gRboyXUKHcejM,"3838 Bloor St W, Toronto, Ontario, Canada",43.6412569,-79.5388823,1,M9B 1L1,OK,street_address
+570,ROOFTOP,"2245 Lawrence Ave W, Etobicoke, ON M9P 3W3, Canada",ChIJB94cI84wK4gRFJ9ooseyQ9c,"2245 Lawrence Ave W, Toronto, Ontario, Canada",43.6968243,-79.5262318,1,M9P 3W3,OK,street_address
+571,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRp1Y1dHuLQVI,"3015 Lawrence Ave E - 1st & 2nd Fl, Toronto, Ontario, Canada",43.754685,-79.2479118,1,M1P 2V7,OK,"establishment,health,point_of_interest"
+572,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+573,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+574,,,,"3050 Lawrence Ave E - CP1, Toronto, Ontario, Canada",43.7561929,-79.2469386,0,M1P 2V5,Manual,
+575,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+576,ROOFTOP,"1000 Ellesmere Rd, Scarborough, ON M1P 2W8, Canada",ChIJ14zRHZLR1IkRhW8wAES8ACY,"1000 Ellesmere Rd, Toronto, Ontario, Canada",43.7670757,-79.277839,1,M1P 2W8,OK,street_address
+577,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+578,ROOFTOP,"500 Kingston Rd, Toronto, ON M4L 1V3, Canada",ChIJMVGplw_M1IkR-BqsgPR1XSQ,"500 Kingston Rd, Toronto, Ontario, Canada",43.6779947,-79.3027374,1,M4L 1V3,OK,street_address
+579,ROOFTOP,"215 Tyrrel Ave, Toronto, ON M6G 4A9, Canada",ChIJm2n4D3w0K4gRSZN5zgJefgY,"215 Tyrrell Ave, Toronto, Ontario, Canada",43.6767854,-79.4303386,1,M6G 4A9,OK,street_address
+580,ROOFTOP,"3555 Kingston Rd, Scarborough, ON M1M 3W4, Canada",ChIJZ3S2uR3Q1IkRIH67nYQmjOg,"3555 Kingston Rd, Toronto, Ontario, Canada",43.7393976,-79.215243,1,M1M 3W4,OK,premise
+581,ROOFTOP,"5935 Bathurst St, North York, ON M2R 1Y8, Canada",ChIJqQQz3L4tK4gRLjJ25KvkPAo,"5935 Bathurst St, Toronto, Ontario, Canada",43.7819319,-79.4446646,1,M2R 1Y8,OK,street_address
+582,ROOFTOP,"2339 Dufferin St, York, ON M6E 4Z5, Canada",ChIJrU-REO0zK4gRtdY_RSg0kZA,"2339 Dufferin St - TCP & RIU, Toronto, Ontario, Canada",43.6947479,-79.4494731,1,M6E 4Z5,OK,"establishment,health,point_of_interest"
+583,ROOFTOP,"2339 Dufferin St, York, ON M6E 4Z5, Canada",ChIJg2NeFO0zK4gRqUXclodj1GI,"2339 Dufferin St, Toronto, Ontario, Canada",43.694771,-79.4494602,1,M6E 4Z5,OK,premise
+584,ROOFTOP,"10 Senlac Rd, North York, ON M2N 1N3, Canada",ChIJuZCNpn8tK4gRINCNZLH7Q0E,"10 Senlac Rd, Toronto, Ontario, Canada",43.7594235,-79.423487,1,M2N 1N3,OK,premise
+585,ROOFTOP,"914 Bathurst St, Toronto, ON M5R 3G5, Canada",ChIJPYf6tZE0K4gRc96ZbEc3MV8,"914 Bathurst St, Toronto, Ontario, Canada",43.6682935,-79.4127583,1,M5R 3G5,OK,street_address
+586,ROOFTOP,"2045 Finch Ave W, North York, ON M3N 1M9, Canada",ChIJb30w8DEwK4gR-fUL_UMaKhA,"2045 Finch Ave W, Toronto, Ontario, Canada",43.7562266,-79.521465,1,M3N 1M9,OK,street_address
+587,ROOFTOP,"1066 Avenue Rd, Toronto, ON M5N 0A3, Canada",ChIJxR7ZGREzK4gR_ISpOPLISF4,"1066 Avenue Rd, Toronto, Ontario, Canada",43.7058269,-79.4102128,1,M5N 0A3,OK,premise
+588,RANGE_INTERPOLATED,"155 Balmoral Ave, Toronto, ON M4V, Canada",EikxNTUgQmFsbW9yYWwgQXZlLCBUb3JvbnRvLCBPTiBNNFYsIENhbmFkYQ,"155 Balmoral Ave, Toronto, Ontario, Canada",43.6842198,-79.4001781,1,M4V,OK,street_address
+589,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+590,RANGE_INTERPOLATED,"260 Bayview Ave, Toronto, ON M5A, Canada",EigyNjAgQmF5dmlldyBBdmUsIFRvcm9udG8sIE9OIE01QSwgQ2FuYWRh,"260 Bayview Ave, Toronto, Ontario, Canada",43.6580648,-79.3552907,1,M5A,OK,street_address
+591,ROOFTOP,"52 Neilson Dr, Etobicoke, ON M9C 1V7, Canada",ChIJ57enlxw4K4gRIuwYcQ1QPeI,"52 Neilson Dr, Toronto, Ontario, Canada",43.6294884,-79.5651348,1,M9C 1V7,OK,street_address
+592,ROOFTOP,"65 Livingston Rd, Scarborough, ON M1E 1K7, Canada",ChIJHew42qfa1IkRTr6T7g2LKo8,"65 Livingston Rd, Toronto, Ontario, Canada",43.7458578,-79.1980116,1,M1E 1K7,OK,premise
+593,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+594,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+595,ROOFTOP,"2045 Finch Ave W, North York, ON M3N 1M9, Canada",ChIJb30w8DEwK4gR-fUL_UMaKhA,"2045 Finch Ave W, Toronto, Ontario, Canada",43.7562266,-79.521465,1,M3N 1M9,OK,street_address
+596,ROOFTOP,"130 Dunn Ave, Toronto, ON M6K 2R7, Canada",ChIJHYc8iqU1K4gR9aHer8NRj1k,"130 Dunn Ave, Toronto, Ontario, Canada",43.6348034,-79.4327094,1,M6K 2R7,OK,street_address
+597,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+598,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+599,ROOFTOP,"340 McCowan Rd, Scarborough, ON M1J, Canada",ChIJN1M5btbP1IkRCvdMudsSlDk,"340 McCowan Rd, Toronto, Ontario, Canada",43.7384767,-79.2386391,1,M1J,OK,premise
+600,ROOFTOP,"2411 Lawrence Ave E, Scarborough, ON M1P 2R6, Canada",ChIJ0UA1ZubR1IkRVRNZnDfR2ZM,"2411 Lawrence Ave E, Toronto, Ontario, Canada",43.7491616,-79.2741252,1,M1P 2R6,OK,street_address
+601,ROOFTOP,"866 Sheppard Ave W, North York, ON M3H 2T5, Canada",ChIJFQvieg4yK4gR2uP-BaFF7pM,"866 Sheppard Ave W, Toronto, Ontario, Canada",43.7526452,-79.4539955,1,M3H 2T5,OK,premise
+602,ROOFTOP,"2881 Eglinton Ave E, Scarborough, ON M1J 0A2, Canada",ChIJ5zd80NXP1IkRhGj3MttH1ZM,"2881 Eglinton Ave E, Toronto, Ontario, Canada",43.7381415,-79.2397845,1,M1J 0A2,OK,street_address
+603,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+604,ROOFTOP,"262 St Clair Ave E, Toronto, ON M4T 1P2, Canada",ChIJcyMRXEwzK4gRaqrkak1Dm4w,"262 St Clair Ave E, Toronto, Ontario, Canada",43.6905535,-79.383569,1,M4T 1P2,OK,street_address
+605,ROOFTOP,"4 Teddington Park Ave, Toronto, ON M4N 2C3, Canada",ChIJBW0XbOoyK4gRVuoVRNl9_zs,"4 Teddington Park Ave, Toronto, Ontario, Canada",43.7332368,-79.4038457,1,M4N 2C3,OK,street_address
+606,ROOFTOP,"225 St George St, Toronto, ON M5R 2M2, Canada",ChIJD3jjYKI0K4gRm66qINu0b3E,"225 St George St, Toronto, Ontario, Canada",43.6725243,-79.4016131,1,M5R 2M2,OK,street_address
+607,ROOFTOP,"550 University Ave, Toronto, ON M5G 2A2, Canada",ChIJJXdy88g0K4gRvc_Yeasm4Q8,"550 University Ave - 6 South, Toronto, Ontario, Canada",43.6567727,-79.3897928,1,M5G 2A2,OK,premise
+608,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+609,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+610,ROOFTOP,"2100 Bloor St W, Toronto, ON M6P 4C9, Canada",ChIJF6pS8oE2K4gR-U5kJjQq-mY,"2100 Bloor St W, Toronto, Ontario, Canada",43.6526086,-79.4710287,1,M6P 4C9,OK,street_address
+611,ROOFTOP,"14 Cross St, Toronto, ON M6J 1S8, Canada",ChIJl0JrMlQ0K4gRu_IWr7pwWW0,"14 Cross St, Toronto, Ontario, Canada",43.6481122,-79.4284992,2,M6J 1S8,OK,premise
+612,ROOFTOP,"5935 Bathurst St, North York, ON M2R 1Y8, Canada",ChIJqQQz3L4tK4gRLjJ25KvkPAo,"5935 Bathurst St, Toronto, Ontario, Canada",43.7819319,-79.4446646,1,M2R 1Y8,OK,street_address
+613,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+614,ROOFTOP,"305 Balliol St, Toronto, ON M4S, Canada",ChIJ_QjKZTYzK4gRZjpPuV8SI_A,"305 Balliol St, Toronto, Ontario, Canada",43.698932,-79.3868671,1,M4S,OK,premise
+615,ROOFTOP,"1001 Queen St W, Toronto, ON M6J 1H1, Canada",ChIJ67l7Bf00K4gRW_zZYmBVoTs,"1001 Queen St W, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,street_address
+616,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+617,ROOFTOP,"111 Avenue Rd, Toronto, ON M5R 3J8, Canada",ChIJYbQ_OaQ0K4gRO4LeRrdDI3Q,"111 Avenue Rd, Toronto, Ontario, Canada",43.6731972,-79.3954314,1,M5R 3J8,OK,premise
+618,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+619,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+620,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+621,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+622,ROOFTOP,"625 Runnymede Rd, Toronto, ON M6S 3A3, Canada",ChIJ7_Vt15k2K4gRMyI_iqlR_cA,"625 Runnymede Rd, Toronto, Ontario, Canada",43.6646809,-79.4812103,1,M6S 3A3,OK,premise
+623,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+624,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+625,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+626,ROOFTOP,"1 Canterbury Pl, North York, ON M2N 1Z7, Canada",ChIJFTAicXItK4gRAPIZEJ1MKzU,"1 Canterbury Pl, Toronto, Ontario, Canada",43.7721224,-79.4144005,1,M2N 1Z7,OK,street_address
+627,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E - F3 East, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+628,ROOFTOP,"2411 Lawrence Ave E, Scarborough, ON M1P 2R6, Canada",ChIJ0UA1ZubR1IkRVRNZnDfR2ZM,"2411 Lawrence Ave E, Toronto, Ontario, Canada",43.7491616,-79.2741252,1,M1P 2R6,OK,street_address
+629,ROOFTOP,"3030 Birchmount Rd, Scarborough, ON M1W 3W3, Canada",ChIJjyeGyMHT1IkRyVCxgno80nU,"3030 Birchmount Rd, Toronto, Ontario, Canada",43.8023904,-79.3091886,1,M1W 3W3,OK,premise
+630,ROOFTOP,"740 Pape Ave, Toronto, ON M4K 3Z4, Canada",ChIJEUsYx4TM1IkRwWwdjwZTbEM,"740 Pape Ave, Toronto, Ontario, Canada",43.6802443,-79.3455786,1,M4K 3Z4,OK,street_address
+631,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+632,ROOFTOP,"550 Cummer Ave, North York, ON M2K 2M2, Canada",ChIJq-0IkdcsK4gRThG6STww1CA,"550 Cummer Ave, Toronto, Ontario, Canada",43.7934039,-79.390669,1,M2K 2M2,OK,premise
+633,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+634,ROOFTOP,"399 Bathurst St, Toronto, ON M5T 2S8, Canada",ChIJ1dw0VOg0K4gRjtAfQ_-EOUY,"399 Bathurst St, Toronto, Ontario, Canada",43.6533856,-79.4059423,1,M5T 2S8,OK,premise
+635,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+636,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+637,ROOFTOP,"345 Sherbourne St, Toronto, ON M5A 2S3, Canada",ChIJC3KczU7L1IkRWnS2xkikd7E,"345 Sherbourne St, Toronto, Ontario, Canada",43.662669,-79.3726619,1,M5A 2S3,OK,street_address
+638,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+639,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+640,ROOFTOP,"66 Roncesvalles Ave, Toronto, ON M6R 3A8, Canada",ChIJL2pGGrY1K4gRYXP_lNAAjdY,"66 Roncesvalles Ave, Toronto, Ontario, Canada",43.6401995,-79.4473076,1,M6R 3A8,OK,street_address
+641,ROOFTOP,"8 The Donway W, Toronto, ON M3C, Canada",ChIJ71c52HLN1IkRfyVt9485byw,"8 Donway Pl, Toronto, Ontario, Canada",43.7315605,-79.3438518,3,M3C,OK,street_address
+642,ROOFTOP,"28 Halton St, Toronto, ON M6J 1R3, Canada",ChIJjRBs5vs0K4gRjy2cA1veRvM,"28 Halton St, Toronto, Ontario, Canada",43.6488003,-79.4191781,1,M6J 1R3,OK,premise
+643,ROOFTOP,"3555 Danforth Ave, Scarborough, ON M1L 1E3, Canada",ChIJLx5zoJHO1IkRqSdgqHiKQGM,"3555 Danforth Ave, Toronto, Ontario, Canada",43.6936402,-79.2748453,1,M1L 1E3,OK,premise
+644,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+645,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+646,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+647,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+648,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+649,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+650,ROOFTOP,"4005 Eglinton Ave W, Etobicoke, ON M9A 4L3, Canada",ChIJMyTzzyg3K4gRg7ykewfDHpE,"4005 Eglinton Ave W, Toronto, Ontario, Canada",43.68288,-79.5207358,1,M9A 4L3,OK,premise
+651,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+652,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+653,ROOFTOP,"60 Richview Rd, Etobicoke, ON M9A 5E4, Canada",ChIJM6GoEik3K4gRj8mYUBhYk4A,"60 Richview Rd, Toronto, Ontario, Canada",43.684335,-79.518696,1,M9A 5E4,OK,street_address
+654,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+655,ROOFTOP,"2100 Bloor St W, Toronto, ON M6P 4C9, Canada",ChIJF6pS8oE2K4gR-U5kJjQq-mY,"2100 Bloor St W, Toronto, Ontario, Canada",43.6526086,-79.4710287,1,M6P 4C9,OK,street_address
+656,ROOFTOP,"3030 Birchmount Rd, Scarborough, ON M1W 3W3, Canada",ChIJjyeGyMHT1IkRyVCxgno80nU,"3030 Birchmount Rd, Toronto, Ontario, Canada",43.8023904,-79.3091886,1,M1W 3W3,OK,premise
+657,ROOFTOP,"650 Church St, Toronto, ON M4Y 2G5, Canada",ChIJ20gDqq00K4gR4i2MHNyb5-w,"650 Church St, Toronto, Ontario, Canada",43.670326,-79.3832017,1,M4Y 2G5,OK,street_address
+658,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+659,ROOFTOP,"2121 Kingston Rd, Scarborough, ON M1N 1T5, Canada",ChIJiQkBr_nO1IkRfXR0rYl7WjI,"2121 Kingston Rd, Toronto, Ontario, Canada",43.7005755,-79.2542332,1,M1N 1T5,OK,premise
+660,ROOFTOP,"1001 Queen St W, Toronto, ON M6J 1H1, Canada",ChIJ67l7Bf00K4gRW_zZYmBVoTs,"1001 Queen St W, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,street_address
+661,ROOFTOP,"187 Wynford Dr, North York, ON M3C 0C7, Canada",ChIJDccrY6PN1IkRp5erUqvWCeo,"187 Wynford Dr, Toronto, Ontario, Canada",43.7246237,-79.3261795,1,M3C 0C7,OK,premise
+662,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+663,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+664,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+665,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+666,ROOFTOP,"59 Lawson Rd, Scarborough, ON M1C 2J1, Canada",ChIJ__qyHk_a1IkRsIBruqdidIc,"59 Lawson Rd, Toronto, Ontario, Canada",43.7832308,-79.1633907,1,M1C 2J1,OK,street_address
+667,ROOFTOP,"2311 McNicoll Ave, Scarborough, ON M1V 5L3, Canada",ChIJe2XHjf3T1IkRBPb32GhfoSg,"2311 McNicoll Ave, Toronto, Ontario, Canada",43.8142238,-79.2902139,1,M1V 5L3,OK,street_address
+668,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+669,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+670,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+671,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+672,ROOFTOP,"43 Wellesley St E, Toronto, ON M4Y 1H1, Canada",ChIJOcGbG7M0K4gRUC90CVt0LVM,"43 Wellesley St E, Toronto, Ontario, Canada",43.6650195,-79.3823361,1,M4Y 1H1,OK,street_address
+673,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+674,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+675,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+676,ROOFTOP,"2720 S Colorado Blvd #700, Denver, CO 80222, USA",ChIJy38TvAB-bIcRuuObP0Cnc3I,"700 & 720 Mount Pleasant Rd, Toronto, Ontario, Canada",39.6674517,-104.9398267,10,80222,OK,street_address
+677,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+678,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+679,ROOFTOP,"9 Neilson Rd, Scarborough, ON M1E 4B8, Canada",ChIJDe8jZoPQ1IkR6mjl54sPHQE,"9 Neilson Rd, Toronto, Ontario, Canada",43.7811687,-79.2043244,1,M1E 4B8,OK,street_address
+680,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+681,ROOFTOP,"303 Queens Dr, North York, ON M6L 3C1, Canada",ChIJoX6lYz0xK4gRY3UUJLA0VOw,"303 Queens Dr, Toronto, Ontario, Canada",43.707585,-79.5022336,1,M6L 3C1,OK,street_address
+682,ROOFTOP,"101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada",ChIJbWz_QFE6K4gRfzLhcFbnoHY,"101 Humber College Blvd, Toronto, Ontario, Canada",43.7289986,-79.5975211,1,M9V 1R8,OK,street_address
+683,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+684,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+685,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+686,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+687,ROOFTOP,"10 Senlac Rd, North York, ON M2N 1N3, Canada",ChIJuZCNpn8tK4gRINCNZLH7Q0E,"10 Senlac Rd, Toronto, Ontario, Canada",43.7594235,-79.423487,1,M2N 1N3,OK,premise
+688,ROOFTOP,"52 Neilson Dr, Etobicoke, ON M9C 1V7, Canada",ChIJ57enlxw4K4gRIuwYcQ1QPeI,"52 Neilson Dr, Toronto, Ontario, Canada",43.6294884,-79.5651348,1,M9C 1V7,OK,street_address
+689,ROOFTOP,"2233 Kipling Ave, Etobicoke, ON M9W 4L3, Canada",ChIJ8eAyGmU6K4gRtgiH1wRFDQI,"2233 Kipling Ave, Toronto, Ontario, Canada",43.7257365,-79.5733921,1,M9W 4L3,OK,street_address
+690,ROOFTOP,"1001 Queen St W, Toronto, ON M6J 1H1, Canada",ChIJ67l7Bf00K4gRW_zZYmBVoTs,"1001 Queen St W, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,street_address
+691,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+692,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+693,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+694,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+695,ROOFTOP,"339 George St, Toronto, ON M5A 2N2, Canada",ChIJffpyhEnL1IkRl8KTUstxsls,"339 George St, Toronto, Ontario, Canada",43.659956,-79.3742652,1,M5A 2N2,OK,street_address
+696,ROOFTOP,"303 Queens Dr, North York, ON M6L 3C1, Canada",ChIJoX6lYz0xK4gRY3UUJLA0VOw,"303 Queens Dr, Toronto, Ontario, Canada",43.707585,-79.5022336,1,M6L 3C1,OK,street_address
+697,ROOFTOP,"19 Rean Dr, North York, ON M2K, Canada",ChIJXSq1mkwtK4gRYJpl78u_TxA,"19 Rean Dr, Toronto, Ontario, Canada",43.7671998,-79.3824121,1,M2K,OK,premise
+698,ROOFTOP,"610 University Ave, Toronto, ON M5G 2M9, Canada",ChIJeXrnbMg0K4gR4ZeQCsd0MzA,"610 University Ave, Toronto, Ontario, Canada",43.6581169,-79.3907253,1,M5G 2M9,OK,premise
+699,ROOFTOP,"345 Sherbourne St, Toronto, ON M5A 2S3, Canada",ChIJC3KczU7L1IkRWnS2xkikd7E,"345 Sherbourne St, Toronto, Ontario, Canada",43.662669,-79.3726619,1,M5A 2S3,OK,street_address
+700,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+701,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+702,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+703,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+704,ROOFTOP,"340 McCowan Rd, Scarborough, ON M1J, Canada",ChIJN1M5btbP1IkRCvdMudsSlDk,"340 McCowan Rd, Toronto, Ontario, Canada",43.7384767,-79.2386391,1,M1J,OK,premise
+705,ROOFTOP,"1000 Ellesmere Rd, Scarborough, ON M1P 2W8, Canada",ChIJ14zRHZLR1IkRhW8wAES8ACY,"1000 Ellesmere Rd, Toronto, Ontario, Canada",43.7670757,-79.277839,1,M1P 2W8,OK,street_address
+706,RANGE_INTERPOLATED,"3276 St Clair Ave, East St Louis, IL 62205, USA",Ei8zMjc2IFN0IENsYWlyIEF2ZSwgRWFzdCBTdCBMb3VpcywgSUwgNjIyMDUsIFVTQQ,"3276 St Clair Ave E - & West, Toronto, Ontario, Canada",38.6183142,-90.1165536,1,62205,OK,street_address
+707,RANGE_INTERPOLATED,"8 Bridlington St, Scarborough, ON M1H 2L5, Canada",EjE4IEJyaWRsaW5ndG9uIFN0LCBTY2FyYm9yb3VnaCwgT04gTTFIIDJMNSwgQ2FuYWRh,"8 Bridlington St, Toronto, Ontario, Canada",43.7708644,-79.2395548,1,M1H 2L5,OK,street_address
+708,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+709,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+710,ROOFTOP,"40 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",ChIJk5Ie2GPa1IkRepNByciiWfs,"40 Old Kingston Rd, Toronto, Ontario, Canada",43.7755055,-79.1832016,1,M1E 3J5,OK,premise
+711,ROOFTOP,"880 Lawrence Ave E, North York, ON M3C 1P6, Canada",ChIJP1BoeG7N1IkRvcqLB6d-kgs,"880 Lawrence Ave E, Toronto, Ontario, Canada",43.7363644,-79.3488625,1,M3C 1P6,OK,street_address
+712,ROOFTOP,"625 Runnymede Rd, Toronto, ON M6S 3A3, Canada",ChIJ7_Vt15k2K4gRMyI_iqlR_cA,"625 Runnymede Rd, Toronto, Ontario, Canada",43.6646809,-79.4812103,1,M6S 3A3,OK,premise
+713,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+714,ROOFTOP,"495 The West Mall, Etobicoke, ON M9C 5S3, Canada",ChIJt3zjay84K4gRuvFA0t9mt0M,"495 The West Mall, Toronto, Ontario, Canada",43.6483147,-79.5676753,1,M9C 5S3,OK,premise
+715,ROOFTOP,"740 Pape Ave, Toronto, ON M4K 3Z4, Canada",ChIJEUsYx4TM1IkRwWwdjwZTbEM,"740 Pape Ave, Toronto, Ontario, Canada",43.6802443,-79.3455786,1,M4K 3Z4,OK,street_address
+716,ROOFTOP,"3555 Danforth Ave, Scarborough, ON M1L 1E3, Canada",ChIJLx5zoJHO1IkRqSdgqHiKQGM,"3555 Danforth Ave, Toronto, Ontario, Canada",43.6936402,-79.2748453,1,M1L 1E3,OK,premise
+717,ROOFTOP,"1140 Bloor St W, Toronto, ON M6H 4E6, Canada",ChIJMTvXtlw0K4gRHCcSxYQ_vqc,"1140 Bloor St W, Toronto, Ontario, Canada",43.6598642,-79.4361232,1,M6H 4E6,OK,street_address
+718,ROOFTOP,"600 University Ave, Palo Alto, CA 94301, USA",ChIJxxkftTi7j4AROsvnFnsAtcQ,"600 University Ave - 12 South & EXAU, Toronto, Ontario, Canada",37.4495029,-122.1576743,1,94301,OK,premise
+719,ROOFTOP,"Sick Kids (The Hospital for Sick Children), 555 University Ave, Toronto, ON M5G 1X8, Canada",ChIJ6Zlovck0K4gRZfVSmGSnW2Q,"555 University Ave, Toronto, Ontario, Canada",43.6570957,-79.3877344,1,M5G 1X8,OK,premise
+720,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+721,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+722,ROOFTOP,"215 Tyrrel Ave, Toronto, ON M6G 4A9, Canada",ChIJm2n4D3w0K4gRSZN5zgJefgY,"215 Tyrell Ave, Toronto, Ontario, Canada",43.6767854,-79.4303386,1,M6G 4A9,OK,street_address
+723,ROOFTOP,"150 Kilgour Rd, East York, ON M4G 0A2, Canada",ChIJ6Z55aCnN1IkRdlE61SfqRhY,"150 Kilgour Rd, Toronto, Ontario, Canada",43.7182948,-79.3742742,1,M4G 0A2,OK,premise
+724,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+725,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr - 6th Fl, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+726,ROOFTOP,"1001 Queen St W, Toronto, ON M6J 1H1, Canada",ChIJ67l7Bf00K4gRW_zZYmBVoTs,"1001 Queen St W, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,street_address
+727,ROOFTOP,"2111 Finch Ave W, North York, ON M3N 1N1, Canada",ChIJ3f4ejDAwK4gR7uhBcycbung,"2111 Finch Ave W, Toronto, Ontario, Canada",43.7544234,-79.5258528,1,M3N 1N1,OK,street_address
+728,ROOFTOP,"148 Markham Rd, Scarborough, ON M1M 2Z8, Canada",ChIJqV038h7Q1IkRAOnkmuZIWIs,"148 Markham Rd, Toronto, Ontario, Canada",43.7407688,-79.2187682,1,M1M 2Z8,OK,premise
+729,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+730,ROOFTOP,"1238 Queen St E, Toronto, ON M4L 1C3, Canada",ChIJ0TT4VoPL1IkR9t19gGXGP38,"1238 Queen St E, Toronto, Ontario, Canada",43.6636476,-79.3298035,1,M4L 1C3,OK,premise
+731,ROOFTOP,"5935 Bathurst St, North York, ON M2R 1Y8, Canada",ChIJqQQz3L4tK4gRLjJ25KvkPAo,"5935 Bathurst St, Toronto, Ontario, Canada",43.7819319,-79.4446646,1,M2R 1Y8,OK,street_address
+732,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+733,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+734,ROOFTOP,"340 McCowan Rd, Scarborough, ON M1J, Canada",ChIJN1M5btbP1IkRCvdMudsSlDk,"340 McCowan Rd, Toronto, Ontario, Canada",43.7384767,-79.2386391,1,M1J,OK,premise
+735,ROOFTOP,"625 Runnymede Rd, Toronto, ON M6S 3A3, Canada",ChIJ7_Vt15k2K4gRMyI_iqlR_cA,"625 Runnymede Rd, Toronto, Ontario, Canada",43.6646809,-79.4812103,1,M6S 3A3,OK,premise
+736,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+737,ROOFTOP,"4001 Leslie St, North York, ON M2K 1E1, Canada",ChIJO9pISr_S1IkR7BbyY-VbFtU,"4001 Leslie St, Toronto, Ontario, Canada",43.7694685,-79.3625826,1,M2K 1E1,OK,street_address
+738,ROOFTOP,"2411 Lawrence Ave E, Scarborough, ON M1P 2R6, Canada",ChIJ0UA1ZubR1IkRVRNZnDfR2ZM,"2411 Lawrence Ave E, Toronto, Ontario, Canada",43.7491616,-79.2741252,1,M1P 2R6,OK,street_address
+739,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+740,ROOFTOP,"600 University Ave, Toronto, ON M5G 1X5, Canada",ChIJzTjmZsg0K4gRK8lh-Z5_NgY,"600 University Ave, Toronto, Ontario, Canada",43.6575221,-79.3899928,1,M5G 1X5,OK,premise
+741,ROOFTOP,"450 Rustic Rd, North York, ON M6L 1W9, Canada",ChIJx2yfe3AxK4gRjbcn6fTg6ns,"450 Rustic Rd, Toronto, Ontario, Canada",43.7174094,-79.4821431,1,M6L 1W9,OK,premise
+742,ROOFTOP,"2311 McNicoll Ave, Scarborough, ON M1V 5L3, Canada",ChIJe2XHjf3T1IkRBPb32GhfoSg,"2311 McNicoll Ave, Toronto, Ontario, Canada",43.8142238,-79.2902139,1,M1V 5L3,OK,street_address
+743,ROOFTOP,"15 Barberry Pl, North York, ON M2K 1G9, Canada",ChIJXzF-Q0wtK4gRJLGSdwkh5Pc,"15 Barberry Pl, Toronto, Ontario, Canada",43.7663864,-79.3839957,1,M2K 1G9,OK,premise
+744,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+745,ROOFTOP,"225 St George St, Toronto, ON M5R 2M2, Canada",ChIJD3jjYKI0K4gRm66qINu0b3E,"225 St George St, Toronto, Ontario, Canada",43.6725243,-79.4016131,1,M5R 2M2,OK,street_address
+746,ROOFTOP,"221 Milner Ave, Scarborough, ON M1S 4P4, Canada",ChIJyS9rW-PQ1IkRJqOE9neWMb8,"221 Milner Ave, Toronto, Ontario, Canada",43.7881613,-79.2400488,1,M1S 4P4,OK,premise
+747,ROOFTOP,"3050 Lawrence Ave E, Scarborough, ON M1P 2V5, Canada",ChIJ2yGmZ8vR1IkRrVTkBhTwtW0,"3050 Lawrence Ave E, Toronto, Ontario, Canada",43.7561929,-79.2469386,1,M1P 2V5,OK,street_address
+748,ROOFTOP,"3595 Keele St, North York, ON M3J 1M7, Canada",ChIJD3z84O4xK4gRAijRL8JarJY,"3595 Keele St, Toronto, Ontario, Canada",43.7511756,-79.4855923,1,M3J 1M7,OK,premise
+749,ROOFTOP,"89 Chestnut St, Toronto, ON M5G 1R1, Canada",ChIJMT5wCMw0K4gRnURiAF8kyLE,"550 University Ave - University Centre - 6 South, Toronto, Ontario, Canada",43.6545368,-79.3855805,1,M5G 1R1,OK,"establishment,food,point_of_interest,university"
+750,,,,"250 College St - EPU 10th Fl, Toronto, Ontario, Canada",43.659269,-79.3994776,0,M5T 1R8,Manual,
+751,ROOFTOP,"2111 Finch Ave W, North York, ON M3N 1N1, Canada",ChIJE1iTjzAwK4gR9C6nnrd4MBE,"2111 Finch Ave W - 6 West, Toronto, Ontario, Canada",43.7547592,-79.5259321,1,M3N 1N1,OK,premise
+752,ROOFTOP,"200 Dawes Rd, Toronto, ON M4C, Canada",ChIJCauSuCXM1IkR0BUHOJt0HUA,"200 Dawes Rd, Toronto, Ontario, Canada",43.6956956,-79.2979503,1,M4C,OK,street_address
+753,ROOFTOP,"505 Kingston Rd, Toronto, ON M4L 1V5, Canada",ChIJBWlznA_M1IkRYrlFt2a5nj4,"505 Kingston Rd, Toronto, Ontario, Canada",43.6773314,-79.3023364,1,M4L 1V5,OK,street_address
+754,ROOFTOP,"35 Elm Grove Ave, Toronto, ON M6K 2J2, Canada",ChIJl-ql9qs1K4gR27AiRpuvbn4,"35 Elm Grove Ave, Toronto, Ontario, Canada",43.6403073,-79.4306974,1,M6K 2J2,OK,premise
+755,ROOFTOP,"111 Avenue Rd, Toronto, ON M5R 3J8, Canada",ChIJYbQ_OaQ0K4gRO4LeRrdDI3Q,"111 Avenue Rd, Toronto, Ontario, Canada",43.6731972,-79.3954314,1,M5R 3J8,OK,premise
+756,ROOFTOP,"95 Humber College Blvd, Etobicoke, ON M9V 5B5, Canada",ChIJw2ocNlA6K4gR18mFuy1kdWE,"95 Humber College Blvd, Toronto, Ontario, Canada",43.7271674,-79.5965005,1,M9V 5B5,OK,premise
+757,ROOFTOP,"2030 McNicoll Ave, Scarborough, ON M1V 5P4, Canada",ChIJDzsAufrT1IkRk2ukVhgoieY,"2030 McNicoll Ave, Toronto, Ontario, Canada",43.8130047,-79.3000558,1,M1V 5P4,OK,street_address
+758,ROOFTOP,"147 Elder St, North York, ON M3H 5G9, Canada",ChIJEQbIhfYtK4gRsvt0x4iinFQ,"147 Elder St, Toronto, Ontario, Canada",43.7628856,-79.4541054,1,M3H 5G9,OK,premise
+759,ROOFTOP,"825 Coxwell Ave, East York, ON M4C 3E7, Canada",ChIJcXGYu2fM1IkRUERyb3NyjBE,"825 Coxwell Ave, Toronto, Ontario, Canada",43.6899772,-79.324942,1,M4C 3E7,OK,street_address
+760,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+761,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+762,ROOFTOP,"767 Royal York Rd, Etobicoke, ON M8Y 2T3, Canada",ChIJHSFPJk82K4gRY-LJMkCbtJc,"767 Royal York Rd, Toronto, Ontario, Canada",43.6377092,-79.5067342,1,M8Y 2T3,OK,street_address
+763,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+764,ROOFTOP,"47 Austin Terrace, Toronto, ON M5R 1Y6, Canada",ChIJ-ePc3oI0K4gRuGSxrCixMkM,"47 Austin Terr, Toronto, Ontario, Canada",43.6777229,-79.4156105,1,M5R 1Y6,OK,street_address
+765,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJ9Q6BFf1HK4gRs8-Vzfq7CZc,"140 Sherway Dr, Toronto, Ontario, Canada",43.6100558,-79.562099,1,M9C 1A4,OK,street_address
+766,ROOFTOP,"4005 Eglinton Ave W, Etobicoke, ON M9A 4L3, Canada",ChIJMyTzzyg3K4gRg7ykewfDHpE,"4005 Eglinton Ave W, Toronto, Ontario, Canada",43.68288,-79.5207358,1,M9A 4L3,OK,premise
+767,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+768,ROOFTOP,"3555 Danforth Ave, Scarborough, ON M1L 1E3, Canada",ChIJLx5zoJHO1IkRqSdgqHiKQGM,"3555 Danforth Ave, Toronto, Ontario, Canada",43.6936402,-79.2748453,1,M1L 1E3,OK,premise
+769,ROOFTOP,"420 The East Mall, Etobicoke, ON M9B 3Z9, Canada",ChIJeeHbHSg4K4gREP1qWe5Xqes,"420 The East Mall, Toronto, Ontario, Canada",43.6475946,-79.560458,1,M9B 3Z9,OK,street_address
+770,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+771,ROOFTOP,"645 Castlefield Ave, Toronto, ON M5N 3A5, Canada",ChIJE5DX4wkzK4gRirm5I-w8KIE,"645 Castlefield Ave, Toronto, Ontario, Canada",43.7062115,-79.4252457,1,M5N 3A5,OK,premise
+772,ROOFTOP,"1 Northwestern Ave, Toronto, ON M6M, Canada",ChIJSbyCaOIzK4gRFktV5MJ_fk0,"1 Northwestern Ave, Toronto, Ontario, Canada",43.698206,-79.4697775,1,M6M,OK,street_address
+773,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+774,ROOFTOP,"495 The West Mall, Etobicoke, ON M9C 5S3, Canada",ChIJt3zjay84K4gRuvFA0t9mt0M,"495 The West Mall, Toronto, Ontario, Canada",43.6483147,-79.5676753,1,M9C 5S3,OK,premise
+775,ROOFTOP,"3560 Bathurst St, North York, ON M6A 2X8, Canada",ChIJKURLaVoyK4gRbiab7ANPv2E,"3560 Bathurst St, Toronto, Ontario, Canada",43.7300629,-79.43421,1,M6A 2X8,OK,street_address
+776,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+777,ROOFTOP,"550 Cummer Ave, North York, ON M2K 2M2, Canada",ChIJq-0IkdcsK4gRThG6STww1CA,"550 Cummer Ave, Toronto, Ontario, Canada",43.7934039,-79.390669,1,M2K 2M2,OK,premise
+778,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+779,ROOFTOP,"1340 York Mills Rd, North York, ON M3A 3R1, Canada",ChIJFTQGFmnS1IkR3rA-w7024xI,"1340 York Mills Rd, Toronto, Ontario, Canada",43.7632297,-79.3200614,1,M3A 3R1,OK,premise
+780,ROOFTOP,"795 Eglinton Ave E, East York, ON M4G 2L1, Canada",ChIJ6_lMitjM1IkRyypO_Hp7nPw,"795 Eglinton Ave E, Toronto, Ontario, Canada",43.7131213,-79.3661381,1,M4G 2L1,OK,premise
+781,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+782,ROOFTOP,"3030 Birchmount Rd, Scarborough, ON M1W 3W3, Canada",ChIJjyeGyMHT1IkRyVCxgno80nU,"3030 Birchmount RD, Toronto, Ontario, Canada",43.8023904,-79.3091886,1,M1W 3W3,OK,premise
+783,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+784,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+785,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+786,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+787,ROOFTOP,"150 Kilgour Rd, East York, ON M4G 0A2, Canada",ChIJ6Z55aCnN1IkRdlE61SfqRhY,"150 Kilgour Rd, Toronto, Ontario, Canada",43.7182948,-79.3742742,1,M4G 0A2,OK,premise
+788,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+789,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+790,ROOFTOP,"1145 Albion Rd, Etobicoke, ON M9V 4J7, Canada",ChIJb8IoqIY6K4gRv_2sZY8cfoQ,"1145 Albion Rd, Toronto, Ontario, Canada",43.7372772,-79.567768,1,M9V 4J7,OK,street_address
+791,ROOFTOP,"1800 O'Connor Dr, North York, ON M4A 2R4, Canada",ChIJ56kzVMTN1IkRAZAjuZr-Uy0,"1800 O'Connor Dr, Toronto, Ontario, Canada",43.7205513,-79.3049625,1,M4A 2R4,OK,street_address
+792,ROOFTOP,"1 Northwestern Ave, Toronto, ON M6M, Canada",ChIJSbyCaOIzK4gRFktV5MJ_fk0,"1 Northwestern Ave, Toronto, Ontario, Canada",43.698206,-79.4697775,1,M6M,OK,street_address
+793,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+794,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+795,ROOFTOP,"2720 S Colorado Blvd #700, Denver, CO 80222, USA",ChIJy38TvAB-bIcRuuObP0Cnc3I,"700 & 720 Mount Pleasant Rd - 6th, 7th, 8th & 9th Fl, Toronto, Ontario, Canada",39.6674517,-104.9398267,10,80222,OK,street_address
+796,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+797,ROOFTOP,"150 Sherway Dr, Etobicoke, ON M9C 1A5, Canada",ChIJJUatMf1HK4gRO89USnWrIwg,"150 Sherway Dr - Complex Care Unit, Toronto, Ontario, Canada",43.6094009,-79.5619046,1,M9C 1A5,OK,"establishment,health,point_of_interest"
+798,,,,"3276 St Clair Ave E - Juniper House, Toronto, Ontario, Canada",43.7129414,-79.2851737,0,M1L 3R7,Manual,
+799,ROOFTOP,"429 Walmer Rd, York, ON M5P 2X9, Canada",ChIJUUDOnmQzK4gRPcqv0qchVwQ,"429 Walmer Rd, Toronto, Ontario, Canada",43.685476,-79.4124884,1,M5P 2X9,OK,street_address
+800,ROOFTOP,"767 Royal York Rd, Etobicoke, ON M8Y 2T3, Canada",ChIJHSFPJk82K4gRY-LJMkCbtJc,"767 Royal York Rd, Toronto, Ontario, Canada",43.6377092,-79.5067342,1,M8Y 2T3,OK,street_address
+801,ROOFTOP,"Eaton Building, 200 Elizabeth St, Toronto, ON M5G 2C4, Canada",ChIJM-Vxzsk0K4gR1NpuTfG5Sh0,"200 Elizabeth St, Toronto, Ontario, Canada",43.6590522,-79.387961,1,M5G 2C4,OK,premise
+802,ROOFTOP,"303 Queens Dr, North York, ON M6L 3C1, Canada",ChIJoX6lYz0xK4gRY3UUJLA0VOw,"303 Queens Dr, Toronto, Ontario, Canada",43.707585,-79.5022336,1,M6L 3C1,OK,street_address
+803,ROOFTOP,"2100 Bloor St W, Toronto, ON M6P 4C9, Canada",ChIJF6pS8oE2K4gR-U5kJjQq-mY,"2100 Bloor St W, Toronto, Ontario, Canada",43.6526086,-79.4710287,1,M6P 4C9,OK,street_address
+804,ROOFTOP,"30 Bond St, Toronto, ON M5B 1W8, Canada",ChIJI5p8fTTL1IkR9HDpOqlSZzo,"30 Bond St, Toronto, Ontario, Canada",43.6529213,-79.3773456,1,M5B 1W8,OK,street_address
+805,ROOFTOP,"19 Rean Dr, North York, ON M2K, Canada",ChIJXSq1mkwtK4gRYJpl78u_TxA,"19 Rean Dr, Toronto, Ontario, Canada",43.7671998,-79.3824121,1,M2K,OK,premise
+806,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+807,ROOFTOP,"439 Sherbourne St, Toronto, ON M4X 1K6, Canada",ChIJvW9-DU7L1IkRozU1MjJmjgE,"439 Sherbourne St, Toronto, Ontario, Canada",43.6663221,-79.3740181,1,M4X 1K6,OK,street_address
+808,ROOFTOP,"3197 Lake Shore Blvd W, Etobicoke, ON M8V 4B7, Canada",ChIJG3EbpjVIK4gRFqAp2XrS_Mo,"3197 Lake Shore Blvd W, Toronto, Ontario, Canada",43.5972081,-79.5184519,1,M8V 4B7,OK,premise
+809,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+810,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+811,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+812,ROOFTOP,"66 Roncesvalles Ave, Toronto, ON M6R 3A8, Canada",ChIJL2pGGrY1K4gRYXP_lNAAjdY,"66 Roncesvalles Ave, Toronto, Ontario, Canada",43.6401995,-79.4473076,1,M6R 3A8,OK,street_address
+813,ROOFTOP,"4251 Dundas St W, Etobicoke, ON M8X 1Y3, Canada",ChIJEYcgnP02K4gRidGT9bVGB30,"4251 Dundas St W, Toronto, Ontario, Canada",43.6588187,-79.5144263,1,M8X 1Y3,OK,premise
+814,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+815,ROOFTOP,"84 Davisville Ave, Toronto, ON M4S 1G1, Canada",ChIJoeL4SDgzK4gRhMi0QXE_Sp0,"84 Davisville Ave, Toronto, Ontario, Canada",43.6995267,-79.3931993,1,M4S 1G1,OK,street_address
+816,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+817,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+818,ROOFTOP,"60 Richview Rd, Etobicoke, ON M9A 5E4, Canada",ChIJM6GoEik3K4gRj8mYUBhYk4A,"60 Richview Rd, Toronto, Ontario, Canada",43.684335,-79.518696,1,M9A 5E4,OK,street_address
+819,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+820,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+821,ROOFTOP,"2005 Lawrence Ave W, York, ON M9N 3V4, Canada",ChIJb9c7fSYxK4gRlbSJeDpkmmo,"2005 Lawrence Ave W, Toronto, Ontario, Canada",43.701231,-79.510148,1,M9N 3V4,OK,street_address
+822,ROOFTOP,"60 Scottfield Dr, Scarborough, ON M1S 5T7, Canada",ChIJu6y2vC_R1IkROUiOtxMaoM0,"60 Scottfield Dr, Toronto, Ontario, Canada",43.8090793,-79.2543009,1,M1S 5T7,OK,street_address
+823,ROOFTOP,"1001 Queen St W #1, Toronto, ON M6J 1H1, Canada",Ei8xMDAxIFF1ZWVuIFN0IFcgIzEsIFRvcm9udG8sIE9OIE02SiAxSDEsIENhbmFkYQ,"1001 Queen St W - Unit 1-3, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,subpremise
+824,ROOFTOP,"60 Guildwood Pkwy, Scarborough, ON M1E 1N9, Canada",ChIJ7wtXiQjQ1IkRXNyAHJYmmmM,"60 Guildwood Pky, Toronto, Ontario, Canada",43.7468545,-79.2031279,1,M1E 1N9,OK,premise
+825,ROOFTOP,"130 Midland Ave, Scarborough, ON M1N 4B2, Canada",ChIJf38fcVPO1IkR4TDKJY2ETMs,"130 Midland Ave, Toronto, Ontario, Canada",43.70835,-79.247493,1,M1N 4B2,OK,street_address
+826,ROOFTOP,"339 George St, Toronto, ON M5A 2N2, Canada",ChIJffpyhEnL1IkRl8KTUstxsls,"339 George St, Toronto, Ontario, Canada",43.659956,-79.3742652,1,M5A 2N2,OK,street_address
+827,ROOFTOP,"1 Canterbury Pl, North York, ON M2N 1Z7, Canada",ChIJFTAicXItK4gRAPIZEJ1MKzU,"1 Canterbury Pl, Toronto, Ontario, Canada",43.7721224,-79.4144005,1,M2N 1Z7,OK,street_address
+828,ROOFTOP,"551 Conlins Rd, Scarborough, ON M1B 5S1, Canada",ChIJvQmZyhra1IkRp0Ez4Tde6b0,"551 Conlins Rd, Toronto, Ontario, Canada",43.8033127,-79.1886743,1,M1B 5S1,OK,street_address
+829,ROOFTOP,"2045 Finch Ave W, North York, ON M3N 1M9, Canada",ChIJb30w8DEwK4gR-fUL_UMaKhA,"2045 Finch Ave W, Toronto, Ontario, Canada",43.7562266,-79.521465,1,M3N 1M9,OK,street_address
+830,ROOFTOP,"147 Elder St, North York, ON M3H 5G9, Canada",ChIJEQbIhfYtK4gRsvt0x4iinFQ,"147 Elder St, Toronto, Ontario, Canada",43.7628856,-79.4541054,1,M3H 5G9,OK,premise
+831,ROOFTOP,"914 Bathurst St, Toronto, ON M5R 3G5, Canada",ChIJPYf6tZE0K4gRc96ZbEc3MV8,"914 Bathurst St, Toronto, Ontario, Canada",43.6682935,-79.4127583,1,M5R 3G5,OK,street_address
+832,ROOFTOP,"303 Queens Dr, North York, ON M6L 3C1, Canada",ChIJoX6lYz0xK4gRY3UUJLA0VOw,"303 Queens Dr, Toronto, Ontario, Canada",43.707585,-79.5022336,1,M6L 3C1,OK,street_address
+833,ROOFTOP,"1001 Queen St W, Toronto, ON M6J 1H1, Canada",ChIJ67l7Bf00K4gRW_zZYmBVoTs,"1001 Queen St W, Toronto, Ontario, Canada",43.6430754,-79.4173192,1,M6J 1H1,OK,street_address
+834,ROOFTOP,"1195 Queen St E, Toronto, ON M4M 1L6, Canada",ChIJy08DyZzL1IkRayoja-bvlhY,"1195 Queen St E, Toronto, Ontario, Canada",43.6627164,-79.3311089,1,M4M 1L6,OK,street_address
+835,ROOFTOP,"306 Finch Ave E, North York, ON M2N 4S5, Canada",ChIJx-LFAyUtK4gRasLR8uoUYe0,"306 Finch Ave E, Toronto, Ontario, Canada",43.7850097,-79.394112,1,M2N 4S5,OK,premise
+836,ROOFTOP,"4005 Eglinton Ave W, Etobicoke, ON M9A 4L3, Canada",ChIJMyTzzyg3K4gRg7ykewfDHpE,"4005 Eglinton Ave W, Toronto, Ontario, Canada",43.68288,-79.5207358,1,M9A 4L3,OK,premise
+837,ROOFTOP,"3830 Lawrence Ave E, Scarborough, ON M1G 1R6, Canada",ChIJK5hAMXDQ1IkRTMeKgr6y_Vo,"3830 Lawrence Ave E, Toronto, Ontario, Canada",43.7637478,-79.2101212,1,M1G 1R6,OK,premise
+838,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+839,ROOFTOP,"1955 Steeles Ave E, North York, ON M2H 3P1, Canada",ChIJNf-OQzbT1IkRvZCSwaNRn_c,"1955 Steeles Ave E, Toronto, Ontario, Canada",43.8077822,-79.3728224,1,M2H 3P1,OK,premise
+840,ROOFTOP,"5935 Bathurst St, North York, ON M2R 1Y8, Canada",ChIJqQQz3L4tK4gRLjJ25KvkPAo,"5935 Bathurst St, Toronto, Ontario, Canada",43.7819319,-79.4446646,1,M2R 1Y8,OK,street_address
+841,ROOFTOP,"70 Humberline Dr, Etobicoke, ON M9W 7H3, Canada",ChIJJyCD7qU7K4gRD1zYTeXj0ao,"70 Humberline Dr, Toronto, Ontario, Canada",43.7315963,-79.6174424,1,M9W 7H3,OK,premise
+842,ROOFTOP,"2111 Finch Ave W, North York, ON M3N 1N1, Canada",ChIJ3f4ejDAwK4gR7uhBcycbung,"2111 Finch Ave W, Toronto, Ontario, Canada",43.7544234,-79.5258528,1,M3N 1N1,OK,street_address
+843,ROOFTOP,"140 Sherway Dr, Etobicoke, ON M9C 1A4, Canada",ChIJQYMAPv1HK4gRY1qObm189MU,"140 Sherway Dr - 2nd & 4th Fl, Toronto, Ontario, Canada",43.6100112,-79.5620721,1,M9C 1A4,OK,"establishment,health,point_of_interest"
+844,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+845,ROOFTOP,"866 Sheppard Ave W, North York, ON M3H 2T5, Canada",ChIJFQvieg4yK4gR2uP-BaFF7pM,"866 Sheppard Ave W, Toronto, Ontario, Canada",43.7526452,-79.4539955,1,M3H 2T5,OK,premise
+846,ROOFTOP,"33 Christie St, Toronto, ON M6G 3B1, Canada",ChIJ729Lbow0K4gR04C-bBae9G8,"33 Christie St, Toronto, Ontario, Canada",43.6647536,-79.4186853,1,M6G 3B1,OK,street_address
+847,ROOFTOP,"1145 Albion Rd, Etobicoke, ON M9V 4J7, Canada",ChIJb8IoqIY6K4gRv_2sZY8cfoQ,"1145 Albion Rd, Toronto, Ontario, Canada",43.7372772,-79.567768,1,M9V 4J7,OK,street_address
+848,ROOFTOP,"55 Belmont St, Toronto, ON M5R 1R1, Canada",ChIJFUYOn6g0K4gRGoumA8zlIs8,"55 Belmont St, Toronto, Ontario, Canada",43.6746049,-79.3910664,1,M5R 1R1,OK,street_address
+849,ROOFTOP,"2920 Lawrence Ave E, Scarborough, ON M1P 2T8, Canada",ChIJRQoGuM7R1IkRlS1Gfrl7uXo,"2920 Lawrence Ave E, Toronto, Ontario, Canada",43.7549294,-79.2518362,1,M1P 2T8,OK,premise
+850,ROOFTOP,"205 Cummer Ave, North York, ON M2M 2E8, Canada",ChIJw3CdRhktK4gRgkWMbpgWymw,"205 Cummer Ave, Toronto, Ontario, Canada",43.7881531,-79.4075583,1,M2M 2E8,OK,premise
+851,ROOFTOP,"1000 Ellesmere Rd, Scarborough, ON M1P 2W8, Canada",ChIJ14zRHZLR1IkRhW8wAES8ACY,"1000 Ellesmere Rd, Toronto, Ontario, Canada",43.7670757,-79.277839,1,M1P 2W8,OK,street_address
+852,ROOFTOP,"3276 St Clair Ave E, Scarborough, ON M1L 3R7, Canada",ChIJkzW0XXnO1IkRm3FiDTI7gTM,"3276 St Clair Ave E, Toronto, Ontario, Canada",43.7129414,-79.2851737,1,M1L 3R7,OK,street_address
+853,ROOFTOP,"59 Lawson Rd, Scarborough, ON M1C 2J1, Canada",ChIJ__qyHk_a1IkRsIBruqdidIc,"59 Lawson Rd, Toronto, Ontario, Canada",43.7832308,-79.1633907,1,M1C 2J1,OK,street_address
+854,ROOFTOP,"541 Finch Ave W, North York, ON M2R 3Y3, Canada",ChIJd7Ly35ItK4gRuoHR5tUydhE,"541 Finch Ave W, Toronto, Ontario, Canada",43.7708614,-79.4463658,1,M2R 3Y3,OK,street_address
+855,ROOFTOP,"138 Dowling Ave, Toronto, ON M6K 3A6, Canada",ChIJJ826WbA1K4gRxExNKye9_5I,"138 Dowling Ave, Toronto, Ontario, Canada",43.6371627,-79.4392231,1,M6K 3A6,OK,premise
+856,ROOFTOP,"3030 Birchmount Rd, Scarborough, ON M1W 3W3, Canada",ChIJjyeGyMHT1IkRyVCxgno80nU,"3030 Birchmount Rd, Toronto, Ontario, Canada",43.8023904,-79.3091886,1,M1W 3W3,OK,premise
+857,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+858,ROOFTOP,"351 Christie St, Toronto, ON M6G, Canada",ChIJmePKR4Y0K4gRNISjA_tz584,"351 Christie St, Toronto, Ontario, Canada",43.673169,-79.4217822,1,M6G,OK,street_address
+859,ROOFTOP,"2233 Kipling Ave, Etobicoke, ON M9W 4L3, Canada",ChIJ8eAyGmU6K4gRtgiH1wRFDQI,"2233 Kipling Ave, Toronto, Ontario, Canada",43.7257365,-79.5733921,1,M9W 4L3,OK,street_address
+860,ROOFTOP,"650 Church St, Toronto, ON M4Y 2G5, Canada",ChIJ20gDqq00K4gR4i2MHNyb5-w,"650 Church St - 5th Fl, Toronto, Ontario, Canada",43.670326,-79.3832017,1,M4Y 2G5,OK,street_address
+861,RANGE_INTERPOLATED,"155 Balmoral Ave, Toronto, ON M4V, Canada",EikxNTUgQmFsbW9yYWwgQXZlLCBUb3JvbnRvLCBPTiBNNFYsIENhbmFkYQ,"155 Balmoral Ave, Toronto, Ontario, Canada",43.6842198,-79.4001781,1,M4V,OK,street_address
+862,ROOFTOP,"150 Dunn Ave, Toronto, ON M6K 2R6, Canada",ChIJI5vXba81K4gR4I_dpUpI9LY,"150 Dunn Ave, Toronto, Ontario, Canada",43.6358176,-79.4329805,1,M6K 2R6,OK,street_address
+863,ROOFTOP,"285 Cummer Ave, North York, ON M2M 2G1, Canada",ChIJFbKzPB8tK4gRe5EdcgmxezA,"285 Cummer Ave, Toronto, Ontario, Canada",43.7875454,-79.4040568,1,M2M 2G1,OK,street_address
+864,ROOFTOP,"30 The Queensway, Toronto, ON M6R 1B5, Canada",ChIJuVPgpck1K4gRNSC4H4V1O8c,"30 The Queensway, Toronto, Ontario, Canada",43.6405498,-79.4500166,1,M6R 1B5,OK,street_address
+865,ROOFTOP,"40 Playfair Ave, North York, ON M6B 2P9, Canada",ChIJ0-sKBMUzK4gR_b-XSji7oKg,"40 Playfair Ave, Toronto, Ontario, Canada",43.7106322,-79.4564816,1,M6B 2P9,OK,premise
+866,ROOFTOP,"2245 Lawrence Ave W, Etobicoke, ON M9P 3W3, Canada",ChIJB94cI84wK4gRFJ9ooseyQ9c,"2245 Lawrence Ave W, Toronto, Ontario, Canada",43.6968243,-79.5262318,1,M9P 3W3,OK,street_address
+867,ROOFTOP,"645 Castlefield Ave, Toronto, ON M5N 3A5, Canada",ChIJE5DX4wkzK4gRirm5I-w8KIE,"645 Castlefield Ave, Toronto, Ontario, Canada",43.7062115,-79.4252457,1,M5N 3A5,OK,premise
+868,ROOFTOP,"3197 Lake Shore Blvd W, Etobicoke, ON M8V 4B7, Canada",ChIJG3EbpjVIK4gRFqAp2XrS_Mo,"3197 Lake Shore Blvd W, Toronto, Ontario, Canada",43.5972081,-79.5184519,1,M8V 4B7,OK,premise
+869,ROOFTOP,"3050 Lawrence Ave E, Scarborough, ON M1P 2V5, Canada",ChIJ2yGmZ8vR1IkRrVTkBhTwtW0,"3050 Lawrence Ave E, Toronto, Ontario, Canada",43.7561929,-79.2469386,1,M1P 2V5,OK,street_address
+870,ROOFTOP,"92 Island Rd, Scarborough, ON M1C 2P5, Canada",ChIJ665qItvb1IkR4p5Qojqbkzo,"92 Island Rd, Toronto, Ontario, Canada",43.798541,-79.140051,1,M1C 2P5,OK,street_address
+871,ROOFTOP,"1925 Steeles Ave E, Thornhill, ON M2H, Canada",ChIJQdWzZTbT1IkRbunvnpxmumc,"1925 Steeles Ave E, Toronto, Ontario, Canada",43.8076512,-79.3737903,1,M2H,OK,premise
+872,ROOFTOP,"400 The West Mall, Etobicoke, ON M9C 5S1, Canada",ChIJkV02aiQ4K4gRR5mKy2pK8RA,"400 The West Mall, Toronto, Ontario, Canada",43.6438807,-79.5674558,1,M9C 5S1,OK,premise
+873,ROOFTOP,"2005 Lawrence Ave W, York, ON M9N 3V4, Canada",ChIJb9c7fSYxK4gRlbSJeDpkmmo,"2005 Lawrence Ave W, Toronto, Ontario, Canada",43.701231,-79.510148,1,M9N 3V4,OK,street_address
+874,ROOFTOP,"429 Walmer Rd, York, ON M5P 2X9, Canada",ChIJUUDOnmQzK4gRPcqv0qchVwQ,"429 Walmer Rd, Toronto, Ontario, Canada",43.685476,-79.4124884,1,M5P 2X9,OK,street_address
+875,ROOFTOP,"66 Roncesvalles Ave, Toronto, ON M6R 3A8, Canada",ChIJL2pGGrY1K4gRYXP_lNAAjdY,"66 Roncesvalles Ave, Toronto, Ontario, Canada",43.6401995,-79.4473076,1,M6R 3A8,OK,street_address
+876,ROOFTOP,"14 Cross St, Toronto, ON M6J 1S8, Canada",ChIJl0JrMlQ0K4gRu_IWr7pwWW0,"14 Cross St, Toronto, Ontario, Canada",43.6481122,-79.4284992,2,M6J 1S8,OK,premise
+877,ROOFTOP,"2411 Lawrence Ave E, Scarborough, ON M1P 2R6, Canada",ChIJ0UA1ZubR1IkRVRNZnDfR2ZM,"2411 Lawrence Ave E, Toronto, Ontario, Canada",43.7491616,-79.2741252,1,M1P 2R6,OK,street_address
+878,ROOFTOP,"866 Sheppard Ave W, North York, ON M3H 2T5, Canada",ChIJFQvieg4yK4gR2uP-BaFF7pM,"866 Sheppard Ave W, Toronto, Ontario, Canada",43.7526452,-79.4539955,1,M3H 2T5,OK,premise
+879,ROOFTOP,"2881 Eglinton Ave E, Scarborough, ON M1J 0A2, Canada",ChIJ5zd80NXP1IkRhGj3MttH1ZM,"2881 Eglinton Ave E, Toronto, Ontario, Canada",43.7381415,-79.2397845,1,M1J 0A2,OK,street_address
+880,ROOFTOP,"17 Maplewood Ave, Toronto, ON M6C, Canada",ChIJ0x7yzH4zK4gRA-uPoEWzTMA,"17 Maplewood Ave, Toronto, Ontario, Canada",43.6858313,-79.4218141,1,M6C,OK,street_address
+881,RANGE_INTERPOLATED,"685 Finch Ave W, Toronto, ON, Canada",EiQ2ODUgRmluY2ggQXZlIFcsIFRvcm9udG8sIE9OLCBDYW5hZGE,"685 Finch Ave W, Toronto, Ontario, Canada",43.7709658,-79.4571202,1,M2R 1P2,OK,street_address
+882,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+883,ROOFTOP,"921 Millwood Rd, East York, ON M4G 1X2, Canada",ChIJoS4jYMPM1IkRHEc6fMJW5y0,"921 Millwood Rd, Toronto, Ontario, Canada",43.7029216,-79.3635397,1,M4G 1X2,OK,street_address
+884,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+885,ROOFTOP,"1 Overland Dr, North York, ON M3C 2C3, Canada",ChIJu7qwY23N1IkRZpuKQJunjnI,"1 Overland Dr, Toronto, Ontario, Canada",43.7324815,-79.3467684,1,M3C 2C3,OK,street_address
+886,ROOFTOP,"1 Bridgepoint Dr, Toronto, ON M4M 2B5, Canada",ChIJZ7uOzGfL1IkRjPO5erkpawA,"1 Bridgepoint Dr, Toronto, Ontario, Canada",43.6664428,-79.3551541,1,M4M 2B5,OK,street_address
+887,ROOFTOP,"300 Silver Star Blvd, Toronto, ON M1V 0G2, Canada",ChIJaQjHvfzT1IkRwzJXeFPKczg,"300 Silver Star Blvd, Toronto, Ontario, Canada",43.8125772,-79.2948725,1,M1V 0G2,OK,street_address
+888,ROOFTOP,"52 Neilson Dr, Etobicoke, ON M9C 1V7, Canada",ChIJ57enlxw4K4gRIuwYcQ1QPeI,"52 Neilson Dr, Toronto, Ontario, Canada",43.6294884,-79.5651348,1,M9C 1V7,OK,street_address
+889,ROOFTOP,"3595 Keele St, North York, ON M3J 1M7, Canada",ChIJD3z84O4xK4gRAijRL8JarJY,"3595 Keele St, Toronto, Ontario, Canada",43.7511756,-79.4855923,1,M3J 1M7,OK,premise
+890,ROOFTOP,"123 Spadina Rd, Toronto, ON M5R 2T1, Canada",ChIJkzE7S5g0K4gR0HUUrzrf8Lg,"123 Spadina Rd, Toronto, Ontario, Canada",43.6717109,-79.4054592,1,M5R 2T1,OK,street_address
+891,ROOFTOP,"1860 Lawrence Ave E, Scarborough, ON M1R 5B1, Canada",ChIJZ0-Vm_fN1IkRMAy0AcMLZ0w,"1860 Lawrence Ave E, Toronto, Ontario, Canada",43.7439584,-79.3024504,1,M1R 5B1,OK,street_address
+892,ROOFTOP,"25 Brunswick Ave, Toronto, ON M5S 2L9, Canada",ChIJwevhYuo0K4gR1Ptuew9xCS0,"25 Brunswick Ave, Toronto, Ontario, Canada",43.6581904,-79.4034349,1,M5S 2L9,OK,"establishment,parking,point_of_interest,premise"
+893,ROOFTOP,"1020 McNicoll Ave, Scarborough, ON M1W 2J6, Canada",ChIJC67mmwrT1IkReOCrONUFjcU,"1020 McNicoll Ave, Toronto, Ontario, Canada",43.8057618,-79.33598,1,M1W 2J6,OK,street_address
+894,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+895,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+896,ROOFTOP,"4 Teddington Park Ave, Toronto, ON M4N 2C3, Canada",ChIJBW0XbOoyK4gRVuoVRNl9_zs,"4 Teddington Park Ave, Toronto, Ontario, Canada",43.7332368,-79.4038457,1,M4N 2C3,OK,street_address
+897,ROOFTOP,"306 Finch Ave E, North York, ON M2N 4S5, Canada",ChIJx-LFAyUtK4gRasLR8uoUYe0,"306 Finch Ave E, Toronto, Ontario, Canada",43.7850097,-79.394112,1,M2N 4S5,OK,premise
+898,ROOFTOP,"3555 Danforth Ave, Scarborough, ON M1L 1E3, Canada",ChIJLx5zoJHO1IkRqSdgqHiKQGM,"3555 Danforth Ave, Toronto, Ontario, Canada",43.6936402,-79.2748453,1,M1L 1E3,OK,premise
+899,ROOFTOP,"66 Roncesvalles Ave, Toronto, ON M6R 3A8, Canada",ChIJL2pGGrY1K4gRYXP_lNAAjdY,"66 Roncesvalles Ave, Toronto, Ontario, Canada",43.6401995,-79.4473076,1,M6R 3A8,OK,street_address
+900,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+901,ROOFTOP,"82 Buttonwood Ave, York, ON M6M 2J5, Canada",ChIJk65h1dI2K4gRra7OF4SAsl0,"82 Buttonwood Ave, Toronto, Ontario, Canada",43.690044,-79.5081813,1,M6M 2J5,OK,street_address
+902,ROOFTOP,"102 Craiglee Dr, Scarborough, ON M1N 2M8, Canada",ChIJhWtf4VbO1IkRizZpemVw5Qk,"102 Craiglee Dr, Toronto, Ontario, Canada",43.7068564,-79.2532899,1,M1N 2M8,OK,street_address
+903,ROOFTOP,"600 University Ave, Toronto, ON M5G 1X5, Canada",ChIJzTjmZsg0K4gRK8lh-Z5_NgY,"600 University Ave, Toronto, Ontario, Canada",43.6575221,-79.3899928,1,M5G 1X5,OK,premise
+904,ROOFTOP,"2 Buchan Ct, Toronto, ON M2J, Canada",ChIJA77yrcHS1IkRuk7pV_WUmWg,"2 Buchan Crt, Toronto, Ontario, Canada",43.7730386,-79.3600198,1,M2J,OK,premise
+905,ROOFTOP,"3015 Lawrence Ave E, Scarborough, ON M1P 2V7, Canada",ChIJubZufszR1IkRTRqDiwyv-qI,"3015 Lawrence Ave E, Toronto, Ontario, Canada",43.7546689,-79.2478902,1,M1P 2V7,OK,street_address
+906,ROOFTOP,"3760 Sheppard Ave E, Scarborough, ON M1T 3K9, Canada",ChIJq_kkOCvS1IkRPoVklcmGdU4,"3760 Sheppard Ave E, Toronto, Ontario, Canada",43.7826388,-79.2944026,1,M1T 3K9,OK,street_address
+907,ROOFTOP,"2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",ChIJ9etNjizN1IkRJNnFZ2HvTLY,"2075 Bayview Ave, Toronto, Ontario, Canada",43.7206484,-79.3780573,1,M4N 3M5,OK,premise
+908,ROOFTOP,"2121 Kingston Rd, Scarborough, ON M1N 1T5, Canada",ChIJiQkBr_nO1IkRfXR0rYl7WjI,"2121 Kingston Rd, Toronto, Ontario, Canada",43.7005755,-79.2542332,1,M1N 1T5,OK,premise
+909,ROOFTOP,"2701 St Clair Ave E, East York, ON M4B 2S9, Canada",ChIJ08t9dUrM1IkRiak2nyXKGmI,"2701 St Clair Ave E, Toronto, Ontario, Canada",43.7056045,-79.3127641,1,M4B 2S9,OK,street_address
